@@ -1,0 +1,2058 @@
+[
+  {
+    "id": "TOAN10-CH1",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 1,
+    "code": "CH1-TOAN10",
+    "title": "Chương I: Mệnh đề và tập hợp",
+    "lessons": [
+      {
+        "id": "TOAN10-B1",
+        "title": "Bài 1: Mệnh đề",
+        "order": 1,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-001",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.1.1",
+            "content": "Thiết lập và phát biểu được các mệnh đề toán học, bao gồm: mệnh đề phủ định, mệnh đề đảo, mệnh đề tương đương, mệnh đề chứa kí hiệu ∀, ∃; điều kiện cần và đủ."
+          },
+          {
+            "id": "TOAN10-YCCD-002",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.1.2",
+            "content": "Xác định được tính đúng/sai của một mệnh đề toán học trong những trường hợp đơn giản."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B2",
+        "title": "Bài 2: Tập hợp và các phép toán trên tập hợp",
+        "order": 2,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-003",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.1.3",
+            "content": "Nhận biết các khái niệm cơ bản về tập hợp (tập con, hai tập hợp bằng nhau, tập rỗng) và các kí hiệu ⊂, ⊃, ∅, ∈, ∉."
+          },
+          {
+            "id": "TOAN10-YCCD-004",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.1.4",
+            "content": "Thực hiện phép toán trên các tập hợp: giao, hợp, hiệu của hai tập hợp, phần bù của tập con và biểu diễn bằng biểu đồ Venn hoặc trục số."
+          },
+          {
+            "id": "TOAN10-YCCD-005",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.1.5",
+            "content": "Giải quyết một số vấn đề thực tiễn gắn với phép toán tập hợp (bài toán đếm số phần tử của hợp các tập hợp, bài toán điều tra học sinh)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH2",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 2,
+    "code": "CH2-TOAN10",
+    "title": "Chương II: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+    "lessons": [
+      {
+        "id": "TOAN10-B3",
+        "title": "Bài 3: Bất phương trình bậc nhất hai ẩn",
+        "order": 3,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-006",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.2.1",
+            "content": "Nhận biết được bất phương trình bậc nhất hai ẩn và nghiệm của bất phương trình bậc nhất hai ẩn."
+          },
+          {
+            "id": "TOAN10-YCCD-007",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.2.2",
+            "content": "Biểu diễn miền nghiệm của bất phương trình bậc nhất hai ẩn trên mặt phẳng toạ độ Oxy."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B4",
+        "title": "Bài 4: Hệ bất phương trình bậc nhất hai ẩn",
+        "order": 4,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-008",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.2.3",
+            "content": "Nhận biết được hệ bất phương trình bậc nhất hai ẩn và nghiệm của hệ bất phương trình bậc nhất hai ẩn."
+          },
+          {
+            "id": "TOAN10-YCCD-009",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.2.4",
+            "content": "Biểu diễn được miền nghiệm của hệ bất phương trình bậc nhất hai ẩn (miền đa giác) trên mặt phẳng toạ độ Oxy."
+          },
+          {
+            "id": "TOAN10-YCCD-010",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.2.5",
+            "content": "Vận dụng kiến thức về hệ bất phương trình bậc nhất hai ẩn giải bài toán quy hoạch tuyến tính thực tiễn (tìm cực trị F = ax + by trên miền đa giác)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH3",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 3,
+    "code": "CH3-TOAN10",
+    "title": "Chương III: Hệ thức lượng trong tam giác",
+    "lessons": [
+      {
+        "id": "TOAN10-B5",
+        "title": "Bài 5: Giá trị lượng giác của một góc từ 0° đến 180°",
+        "order": 5,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-011",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.3.1",
+            "content": "Nhận biết giá trị lượng giác sin, cos, tan, cot của một góc từ 0° đến 180° trên nửa đường tròn đơn vị."
+          },
+          {
+            "id": "TOAN10-YCCD-012",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.3.2",
+            "content": "Giải thích hệ thức liên hệ giữa giá trị lượng giác của hai góc phụ nhau, bù nhau và sử dụng máy tính cầm tay để tính toán."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B6",
+        "title": "Bài 6: Hệ thức lượng trong tam giác",
+        "order": 6,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-013",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.3.3",
+            "content": "Phát biểu định lí côsin, định lí sin và các công thức tính diện tích tam giác (Heron, bán kính đường tròn ngoại tiếp, nội tiếp)."
+          },
+          {
+            "id": "TOAN10-YCCD-014",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.3.4",
+            "content": "Mô tả cách giải tam giác: tính các cạnh và các góc của tam giác khi biết một số yếu tố cho trước."
+          },
+          {
+            "id": "TOAN10-YCCD-015",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.3.5",
+            "content": "Vận dụng giải tam giác vào giải quyết bài toán đo đạc thực tiễn (xác định khoảng cách giữa hai địa điểm có vật cản, tính chiều cao toà tháp)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH4",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 4,
+    "code": "CH4-TOAN10",
+    "title": "Chương IV: Vectơ",
+    "lessons": [
+      {
+        "id": "TOAN10-B7",
+        "title": "Bài 7: Các khái niệm mở đầu",
+        "order": 7,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-016",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.1",
+            "content": "Nhận biết khái niệm vectơ, vectơ cùng phương, cùng hướng, độ dài vectơ, hai vectơ bằng nhau, vectơ-không."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B8",
+        "title": "Bài 8: Tổng và hiệu của hai vectơ",
+        "order": 8,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-017",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.2",
+            "content": "Nêu quy tắc ba điểm, quy tắc hình bình hành và quy tắc trừ hai vectơ chung gốc."
+          },
+          {
+            "id": "TOAN10-YCCD-018",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.3",
+            "content": "Thực hiện phép cộng và trừ vectơ; tính độ dài của vectơ tổng và hiệu trong các hình hình học phẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B9",
+        "title": "Bài 9: Tích của một vectơ với một số",
+        "order": 9,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-019",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.4",
+            "content": "Nêu định nghĩa và các tính chất của phép nhân một số với một vectơ; điều kiện để hai vectơ cùng phương."
+          },
+          {
+            "id": "TOAN10-YCCD-020",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.5",
+            "content": "Mô tả hệ thức vectơ trung điểm của đoạn thẳng, vectơ trọng tâm tam giác và phân tích một vectơ theo hai vectơ không cùng phương."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B10",
+        "title": "Bài 10: Vectơ trong mặt phẳng toạ độ",
+        "order": 10,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-021",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.6",
+            "content": "Nhận biết toạ độ của điểm và toạ độ của vectơ đối với hệ toạ độ Oxy; biểu thức toạ độ của các phép toán cộng, trừ vectơ và nhân với một số."
+          },
+          {
+            "id": "TOAN10-YCCD-022",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.7",
+            "content": "Tìm toạ độ trung điểm của đoạn thẳng, toạ độ trọng tâm tam giác và tính độ dài vectơ khi biết toạ độ hai đầu mút."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B11",
+        "title": "Bài 11: Tích vô hướng của hai vectơ",
+        "order": 11,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-023",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.8",
+            "content": "Nêu định nghĩa góc giữa hai vectơ, công thức tích vô hướng a.b = |a|.|b|.cos(a, b) và biểu thức toạ độ của tích vô hướng."
+          },
+          {
+            "id": "TOAN10-YCCD-024",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.9",
+            "content": "Tính góc giữa hai vectơ và chứng minh hai vectơ vuông góc nhau qua điều kiện tích vô hướng bằng 0."
+          },
+          {
+            "id": "TOAN10-YCCD-025",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.4.10",
+            "content": "Vận dụng tích vô hướng tính công cơ học của lực tác dụng trong Vật lí hoặc giải các bài toán hình học phẳng."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH5",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 5,
+    "code": "CH5-TOAN10",
+    "title": "Chương V: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+    "lessons": [
+      {
+        "id": "TOAN10-B12",
+        "title": "Bài 12: Số gần đúng và sai số",
+        "order": 12,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-026",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.1",
+            "content": "Hiểu khái niệm số gần đúng, sai số tuyệt đối, sai số tỉ đối và độ chính xác của số gần đúng."
+          },
+          {
+            "id": "TOAN10-YCCD-027",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.2",
+            "content": "Thực hiện quy tròn số gần đúng căn cứ vào độ chính xác cho trước."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B13",
+        "title": "Bài 13: Các số đặc trưng đo xu thế trung tâm",
+        "order": 13,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-028",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.3",
+            "content": "Nêu định nghĩa và ý nghĩa của các số đặc trưng đo xu thế trung tâm: số trung bình cộng, trung vị, tứ phân vị, mốt."
+          },
+          {
+            "id": "TOAN10-YCCD-029",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.4",
+            "content": "Tính được số trung bình, trung vị, các tứ phân vị Q1, Q2, Q3 và mốt cho một mẫu số liệu không ghép nhóm."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B14",
+        "title": "Bài 14: Các số đặc trưng đo độ phân tán",
+        "order": 14,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-030",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.5",
+            "content": "Nêu định nghĩa và ý nghĩa của các số đặc trưng đo độ phân tán: khoảng biến thiên, khoảng tứ phân vị, phương sai và độ lệch chuẩn."
+          },
+          {
+            "id": "TOAN10-YCCD-031",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.6",
+            "content": "Tính khoảng biến thiên, khoảng tứ phân vị, phương sai và độ lệch chuẩn của mẫu số liệu bằng máy tính cầm tay."
+          },
+          {
+            "id": "TOAN10-YCCD-032",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.5.7",
+            "content": "Rút ra kết luận và so sánh độ ổn định/mức độ đồng đều của hai mẫu số liệu thực nghiệm trong đời sống."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH6",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 6,
+    "code": "CH6-TOAN10",
+    "title": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "lessons": [
+      {
+        "id": "TOAN10-B15",
+        "title": "Bài 15: Hàm số và đồ thị",
+        "order": 15,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-033",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.1",
+            "content": "Nêu các khái niệm cơ bản về hàm số: tập xác định, tập giá trị, hàm số đồng biến, hàm số nghịch biến, đồ thị hàm số."
+          },
+          {
+            "id": "TOAN10-YCCD-034",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.2",
+            "content": "Mô tả đặc trưng hình học của đồ thị hàm số đồng biến (đi lên từ trái sang phải) và nghịch biến (đi xuống từ trái sang phải)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B16",
+        "title": "Bài 16: Hàm số bậc hai",
+        "order": 16,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-035",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.3",
+            "content": "Nêu định nghĩa hàm số bậc hai y = ax^2 + bx + c (a ≠ 0), toạ độ đỉnh I(-b/(2a), -Δ/(4a)) và trục đối xứng x = -b/(2a)."
+          },
+          {
+            "id": "TOAN10-YCCD-036",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.4",
+            "content": "Lập bảng biến thiên và vẽ Parabol là đồ thị của hàm số bậc hai."
+          },
+          {
+            "id": "TOAN10-YCCD-037",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.5",
+            "content": "Vận dụng hàm số bậc hai giải bài toán thực tiễn tối ưu (tìm doanh thu lớn nhất, tầm bay cao nhất của vật ném dạng Parabol)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B17",
+        "title": "Bài 17: Dấu của tam thức bậc hai",
+        "order": 17,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-038",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.6",
+            "content": "Phát biểu định lí về dấu của tam thức bậc hai f(x) = ax^2 + bx + c (a ≠ 0) qua quan sát đồ thị hoặc biệt thức Δ."
+          },
+          {
+            "id": "TOAN10-YCCD-039",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.7",
+            "content": "Xét dấu tam thức bậc hai và giải bất phương trình bậc hai một ẩn."
+          },
+          {
+            "id": "TOAN10-YCCD-040",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.8",
+            "content": "Tìm điều kiện của tham số m để tam thức bậc hai luôn dương hoặc luôn âm trên R."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B18",
+        "title": "Bài 18: Phương trình quy về phương trình bậc hai",
+        "order": 18,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-041",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.9",
+            "content": "Giải phương trình chứa căn thức dạng √(ax^2 + bx + c) = √(dx^2 + ex + f)."
+          },
+          {
+            "id": "TOAN10-YCCD-042",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.6.10",
+            "content": "Giải phương trình chứa căn thức dạng √(ax^2 + bx + c) = dx + e và thử lại nghiệm."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH7",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 7,
+    "code": "CH7-TOAN10",
+    "title": "Chương VII: Phương pháp toạ độ trong mặt phẳng",
+    "lessons": [
+      {
+        "id": "TOAN10-B19",
+        "title": "Bài 19: Phương trình đường thẳng",
+        "order": 19,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-043",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.1",
+            "content": "Nêu định nghĩa vectơ pháp tuyến, vectơ chỉ phương của đường thẳng; dạng phương trình tham số và phương trình tổng quát."
+          },
+          {
+            "id": "TOAN10-YCCD-044",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.2",
+            "content": "Viết phương trình tham số và tổng quát của đường thẳng đi qua một điểm và biết VTPT hoặc VTCP; đi qua hai điểm phân biệt."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B20",
+        "title": "Bài 20: Vị trí tương đối giữa hai đường thẳng. Góc và khoảng cách",
+        "order": 20,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-045",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.3",
+            "content": "Nêu điều kiện để hai đường thẳng cắt nhau, song song, trùng nhau, vuông góc nhau; công thức khoảng cách từ điểm đến đường thẳng."
+          },
+          {
+            "id": "TOAN10-YCCD-046",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.4",
+            "content": "Tính góc giữa hai đường thẳng và tính khoảng cách từ điểm M(x0, y0) đến đường thẳng Δ: ax + by + c = 0."
+          },
+          {
+            "id": "TOAN10-YCCD-047",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.5",
+            "content": "Giải bài toán tìm toạ độ đỉnh tam giác, phương trình đường cao, trung tuyến và khoảng cách trong tam giác."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B21",
+        "title": "Bài 21: Đường tròn trong mặt phẳng toạ độ",
+        "order": 21,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-048",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.6",
+            "content": "Nêu phương trình chính tắc của đường tròn (x - a)^2 + (y - b)^2 = R^2 và điều kiện x^2 + y^2 - 2ax - 2by + c = 0 là phương trình đường tròn."
+          },
+          {
+            "id": "TOAN10-YCCD-049",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.7",
+            "content": "Xác định tâm và bán kính đường tròn; lập phương trình đường tròn đi qua ba điểm phân biệt."
+          },
+          {
+            "id": "TOAN10-YCCD-050",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.8",
+            "content": "Viết phương trình tiếp tuyến của đường tròn tại một điểm hoặc khi biết tiếp tuyến song song/vuông góc với đường thẳng cho trước."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B22",
+        "title": "Bài 22: Ba đường conic",
+        "order": 22,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-051",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.9",
+            "content": "Nhận biết định nghĩa và phương trình chính tắc của Elip x^2/a^2 + y^2/b^2 = 1, Hypebol x^2/a^2 - y^2/b^2 = 1 và Parabol y^2 = 2px."
+          },
+          {
+            "id": "TOAN10-YCCD-052",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.10",
+            "content": "Xác định các yếu tố đặc trưng của Elip, Hypebol, Parabol: toạ độ các tiêu điểm, các đỉnh, tiêu cự, độ dài trục lớn/nhỏ."
+          },
+          {
+            "id": "TOAN10-YCCD-053",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.7.11",
+            "content": "Giải bài toán thực tế gắn với đường conic (gương phản xạ parabol, quỹ đạo chuyển động thiên văn của elip)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH8",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 8,
+    "code": "CH8-TOAN10",
+    "title": "Chương VIII: Đại số tổ hợp",
+    "lessons": [
+      {
+        "id": "TOAN10-B23",
+        "title": "Bài 23: Quy tắc đếm",
+        "order": 23,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-054",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.1",
+            "content": "Phát biểu quy tắc cộng, quy tắc nhân và nhận biết khi nào áp dụng quy tắc cộng, quy tắc nhân."
+          },
+          {
+            "id": "TOAN10-YCCD-055",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.2",
+            "content": "Vận dụng sơ đồ hình cây để đếm số khả năng xuất hiện trong các bài toán đếm nhiều công đoạn."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B24",
+        "title": "Bài 24: Hoán vị, chỉnh hợp và tổ hợp",
+        "order": 24,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-056",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.3",
+            "content": "Nêu định nghĩa và công thức tính số hoán vị P_n = n!, số chỉnh hợp A_n^k, số tổ hợp C_n^k."
+          },
+          {
+            "id": "TOAN10-YCCD-057",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.4",
+            "content": "Phân biệt được bài toán chỉnh hợp (có thứ tự sắp xếp) và bài toán tổ hợp (chọn không phân biệt thứ tự); tính toán bằng máy tính cầm tay."
+          },
+          {
+            "id": "TOAN10-YCCD-058",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.5",
+            "content": "Giải các bài toán đếm phức tạp liên quan đến lập số tự nhiên thoả mãn điều kiện chẵn/lẻ hoặc chia nhóm đối tượng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B25",
+        "title": "Bài 25: Nhị thức Newton",
+        "order": 25,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-059",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.6",
+            "content": "Khai triển được nhị thức Newton (a + b)^n với n = 4, n = 5 bằng cách sử dụng các hệ số tổ hợp."
+          },
+          {
+            "id": "TOAN10-YCCD-060",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.8.7",
+            "content": "Tìm số hạng chứa x^k trong khai triển nhị thức Newton hoặc tính tổng các hệ số trong khai triển."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN10-CH9",
+    "subject": "Toan",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 9,
+    "code": "CH9-TOAN10",
+    "title": "Chương IX: Tính xác suất theo định nghĩa cổ điển",
+    "lessons": [
+      {
+        "id": "TOAN10-B26",
+        "title": "Bài 26: Biến cố và định nghĩa cổ điển của xác suất",
+        "order": 26,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-061",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.9.1",
+            "content": "Nhận biết khái niệm phép thử ngẫu nhiên, không gian mẫu Ω, biến cố A, biến cố đối A-ngang và công thức P(A) = n(A)/n(Ω)."
+          },
+          {
+            "id": "TOAN10-YCCD-062",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.9.2",
+            "content": "Mô tả không gian mẫu và liệt kê các kết quả thuận lợi cho biến cố trong các phép thử đơn giản (gieo xúc xắc, tung đồng xu)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN10-B27",
+        "title": "Bài 27: Thực hành tính xác suất theo định nghĩa cổ điển",
+        "order": 27,
+        "yccds": [
+          {
+            "id": "TOAN10-YCCD-063",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.9.3",
+            "content": "Tính xác suất của biến cố trong các bài toán chọn ngẫu nhiên bằng cách sử dụng công thức tổ hợp."
+          },
+          {
+            "id": "TOAN10-YCCD-064",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN10.9.4",
+            "content": "Sử dụng biến cố đối để tính xác suất của các bài toán có từ \"ít nhất một\" trong các tình huống thực tiễn đời sống."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH1",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 1,
+    "code": "CH1-TOAN11",
+    "title": "Chương 1. Hàm số lượng giác và phương trình lượng giác",
+    "lessons": [
+      {
+        "id": "TOAN11-B1",
+        "title": "Bài 1. Giá trị lượng giác của góc lượng giác",
+        "order": 1,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-001",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.1",
+            "content": "Nhận biết khái niệm góc lượng giác, đường tròn lượng giác, số đo bằng radian và hệ thức Chasles."
+          },
+          {
+            "id": "TOAN11-YCCD-002",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.2",
+            "content": "Tính giá trị lượng giác sin, cos, tan, cot của góc lượng giác và áp dụng quan hệ góc bù, phụ, đối, hơn kém π."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B2",
+        "title": "Bài 2. Công thức lượng giác",
+        "order": 2,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-003",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.3",
+            "content": "Nêu công thức cộng, công thức nhân đôi, công thức hạ bậc, công thức biến đổi tích thành tổng và tổng thành tích."
+          },
+          {
+            "id": "TOAN11-YCCD-004",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.4",
+            "content": "Rút gọn biểu thức lượng giác và tính giá trị chính xác của biểu thức lượng giác."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B3",
+        "title": "Bài 3. Hàm số lượng giác",
+        "order": 3,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-005",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.5",
+            "content": "Nêu định nghĩa, tập xác định, tập giá trị, chu kì và tính chẵn lẻ của 4 hàm số lượng giác: y = sin x, cos x, tan x, cot x."
+          },
+          {
+            "id": "TOAN11-YCCD-006",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.6",
+            "content": "Vẽ đồ thị và phân tích tính tuần hoàn, khoảng đồng biến, nghịch biến của hàm số lượng giác."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B4",
+        "title": "Bài 4. Phương trình lượng giác cơ bản",
+        "order": 4,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-007",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.7",
+            "content": "Nhận biết công thức nghiệm của phương trình sin x = m, cos x = m, tan x = m, cot x = m."
+          },
+          {
+            "id": "TOAN11-YCCD-008",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.8",
+            "content": "Giải phương trình lượng giác đưa về dạng cơ bản và biểu diễn tập nghiệm trên đường tròn lượng giác."
+          },
+          {
+            "id": "TOAN11-YCCD-009",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.1.9",
+            "content": "Vận dụng phương trình lượng giác giải bài toán thực tiễn về chu kì thuỷ triều, dao động điều hoà con lắc."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH2",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 2,
+    "code": "CH2-TOAN11",
+    "title": "Chương 2. Dãy số. Cấp số cộng và cấp số nhân",
+    "lessons": [
+      {
+        "id": "TOAN11-B5",
+        "title": "Bài 5. Dãy số",
+        "order": 5,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-010",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.1",
+            "content": "Nhận biết dãy số hữu hạn, vô hạn, dãy số tăng, dãy số giảm và dãy số bị chặn."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B6",
+        "title": "Bài 6. Cấp số cộng",
+        "order": 6,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-011",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.2",
+            "content": "Nêu định nghĩa cấp số cộng, công sai d, công thức số hạng tổng quát u_n = u1 + (n - 1)d và tổng S_n."
+          },
+          {
+            "id": "TOAN11-YCCD-012",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.3",
+            "content": "Tìm số hạng đầu u1, công sai d và tính tổng n số hạng đầu tiên của một cấp số cộng."
+          },
+          {
+            "id": "TOAN11-YCCD-013",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.4",
+            "content": "Vận dụng cấp số cộng giải bài toán thực tiễn (xếp ghế nhà hát, số tiền gửi tiết kiệm tăng đều)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B7",
+        "title": "Bài 7. Cấp số nhân",
+        "order": 7,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-014",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.5",
+            "content": "Nêu định nghĩa cấp số nhân, công bội q, số hạng tổng quát u_n = u1.q^(n - 1) và tổng S_n."
+          },
+          {
+            "id": "TOAN11-YCCD-015",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.6",
+            "content": "Tìm số hạng đầu u1, công bội q và tính tổng n số hạng đầu tiên của một cấp số nhân."
+          },
+          {
+            "id": "TOAN11-YCCD-016",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.2.7",
+            "content": "Vận dụng cấp số nhân mô hình hoá bài toán tăng trưởng dân số, phân bào sinh học, lãi kép ngân hàng."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH3",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 3,
+    "code": "CH3-TOAN11",
+    "title": "Chương 3. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+    "lessons": [
+      {
+        "id": "TOAN11-B8",
+        "title": "Bài 8. Mẫu số liệu ghép nhóm",
+        "order": 8,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-017",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.3.1",
+            "content": "Nhận biết mẫu số liệu ghép nhóm, bảng tần số ghép nhóm và giá trị đại diện của nhóm [a; b)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B9",
+        "title": "Bài 9. Các số đặc trưng đo xu thế trung tâm",
+        "order": 9,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-018",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.3.2",
+            "content": "Tính số trung bình cộng, trung vị, các tứ phân vị và mốt của mẫu số liệu ghép nhóm."
+          },
+          {
+            "id": "TOAN11-YCCD-019",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.3.3",
+            "content": "Phân tích ý nghĩa thực tiễn của số trung bình và trung vị trong việc đánh giá mức thu nhập, điểm thi học sinh."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH4",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 4,
+    "code": "CH4-TOAN11",
+    "title": "Chương 4. Quan hệ song song trong không gian",
+    "lessons": [
+      {
+        "id": "TOAN11-B10",
+        "title": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+        "order": 10,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-020",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.1",
+            "content": "Nêu các tính chất thừa nhận của hình học không gian, cách xác định một mặt phẳng và khái niệm hình chóp, hình tứ diện."
+          },
+          {
+            "id": "TOAN11-YCCD-021",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.2",
+            "content": "Tìm giao tuyến của hai mặt phẳng và tìm giao điểm của đường thẳng với mặt phẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B11",
+        "title": "Bài 11. Hai đường thẳng song song",
+        "order": 11,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-022",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.3",
+            "content": "Nêu vị trí tương đối của hai đường thẳng trong không gian: song song, cắt nhau, trùng nhau, chéo nhau."
+          },
+          {
+            "id": "TOAN11-YCCD-023",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.4",
+            "content": "Chứng minh hai đường thẳng song song trong không gian qua tính chất đường trung bình hoặc hình bình hành."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B12",
+        "title": "Bài 12. Đường thẳng và mặt phẳng song song",
+        "order": 12,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-024",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.5",
+            "content": "Nêu điều kiện để đường thẳng song song với mặt phẳng (d // d' ⊂ (α))."
+          },
+          {
+            "id": "TOAN11-YCCD-025",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.6",
+            "content": "Chứng minh đường thẳng song song với mặt phẳng và dựng thiết diện song song với đường thẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B13",
+        "title": "Bài 13. Hai mặt phẳng song song",
+        "order": 13,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-026",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.7",
+            "content": "Nêu điều kiện để hai mặt phẳng song song, định lí Thales trong không gian và tính chất hình lăng trụ, hình hộp."
+          },
+          {
+            "id": "TOAN11-YCCD-027",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.8",
+            "content": "Chứng minh hai mặt phẳng song song và xác định thiết diện của hình chóp/lăng trụ cắt bởi mặt phẳng song song đáy."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B14",
+        "title": "Bài 14. Phép chiếu song song",
+        "order": 14,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-028",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.4.9",
+            "content": "Nêu các tính chất của phép chiếu song song và vẽ hình biểu diễn của tam giác, hình bình hành, đường tròn trong không gian."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH5",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 5,
+    "code": "CH5-TOAN11",
+    "title": "Chương 5. Giới hạn. Hàm số liên tục",
+    "lessons": [
+      {
+        "id": "TOAN11-B15",
+        "title": "Bài 15. Giới hạn của dãy số",
+        "order": 15,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-029",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.1",
+            "content": "Nêu định nghĩa giới hạn của dãy số, các giới hạn cơ bản lim 1/n^k = 0, lim q^n = 0 (|q| < 1) và tổng cấp số nhân lùi vô hạn S = u1/(1 - q)."
+          },
+          {
+            "id": "TOAN11-YCCD-030",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.2",
+            "content": "Vận dụng các định lí về giới hạn hữu hạn của dãy số để tính giới hạn của phân thức đại số bậc đa thức."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B16",
+        "title": "Bài 16. Giới hạn của hàm số",
+        "order": 16,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-031",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.3",
+            "content": "Nêu định nghĩa giới hạn hữu hạn của hàm số tại một điểm, giới hạn một phía, giới hạn tại vô cực và giới hạn vô cực."
+          },
+          {
+            "id": "TOAN11-YCCD-032",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.4",
+            "content": "Tính giới hạn hàm số dạng vô định 0/0 (khử nhân tử chung) và dạng vô cùng / vô cùng."
+          },
+          {
+            "id": "TOAN11-YCCD-033",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.5",
+            "content": "Tính giới hạn dạng vô cùng - vô cùng bằng cách nhân liên hợp chứa căn thức."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B17",
+        "title": "Bài 17. Hàm số liên tục",
+        "order": 17,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-034",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.6",
+            "content": "Nêu định nghĩa hàm số liên tục tại một điểm lim(x->x0) f(x) = f(x0), liên tục trên một khoảng, một đoạn."
+          },
+          {
+            "id": "TOAN11-YCCD-035",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.7",
+            "content": "Xét tính liên tục của hàm số cho bởi nhiều công thức tại điểm ranh giới x0."
+          },
+          {
+            "id": "TOAN11-YCCD-036",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.5.8",
+            "content": "Áp dụng định lí Bolzano chứng minh phương trình f(x) = 0 có ít nhất một nghiệm trên khoảng (a; b) nếu f(a).f(b) < 0."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH6",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 6,
+    "code": "CH6-TOAN11",
+    "title": "Chương 6. Hàm số mũ và hàm số lôgarit",
+    "lessons": [
+      {
+        "id": "TOAN11-B18",
+        "title": "Bài 18. Luỹ thừa với số mũ thực",
+        "order": 18,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-037",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.1",
+            "content": "Nêu định nghĩa luỹ thừa với số mũ nguyên, hữu tỉ và số mũ thực; các tính chất của phép tính luỹ thừa."
+          },
+          {
+            "id": "TOAN11-YCCD-038",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.2",
+            "content": "Rút gọn biểu thức chứa căn thức và luỹ thừa có số mũ hữu tỉ bằng các tính chất đã học."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B19",
+        "title": "Bài 19. Lôgarit",
+        "order": 19,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-039",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.3",
+            "content": "Nêu định nghĩa lôgarit log_a(b), lôgarit thập phân, lôgarit tự nhiên ln(b) và các tính chất cơ bản."
+          },
+          {
+            "id": "TOAN11-YCCD-040",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.4",
+            "content": "Áp dụng công thức đổi cơ số log_a(b) = log_c(b)/log_c(a) để tính toán và biểu diễn biểu thức lôgarit theo các ẩn số cho trước."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B20",
+        "title": "Bài 20. Hàm số mũ và hàm số lôgarit",
+        "order": 20,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-041",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.5",
+            "content": "Nêu định nghĩa hàm số mũ y = a^x và hàm số lôgarit y = log_a(x) (a > 0, a ≠ 1), tập xác định và tập giá trị."
+          },
+          {
+            "id": "TOAN11-YCCD-042",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.6",
+            "content": "Vẽ đồ thị và giải thích tính đồng biến (a > 1), nghịch biến (0 < a < 1) của hàm số mũ và lôgarit."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B21",
+        "title": "Bài 21. Phương trình, bất phương trình mũ và lôgarit",
+        "order": 21,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-043",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.7",
+            "content": "Giải phương trình, bất phương trình mũ và lôgarit cơ bản: a^x = b, log_a(x) = b bằng phương pháp đưa về cùng cơ số."
+          },
+          {
+            "id": "TOAN11-YCCD-044",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.6.8",
+            "content": "Giải phương trình mũ/lôgarit bằng phương pháp đặt ẩn phụ và giải quyết bài toán lãi suất ngân hàng, đo nồng độ pH dung dịch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH7",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 7,
+    "code": "CH7-TOAN11",
+    "title": "Chương 7. Quan hệ vuông góc trong không gian",
+    "lessons": [
+      {
+        "id": "TOAN11-B22",
+        "title": "Bài 22. Hai đường thẳng vuông góc",
+        "order": 22,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-045",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.1",
+            "content": "Nêu định nghĩa góc giữa hai đường thẳng trong không gian và khái niệm hai đường thẳng vuông góc."
+          },
+          {
+            "id": "TOAN11-YCCD-046",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.2",
+            "content": "Chứng minh hai đường thẳng vuông góc trong không gian bằng vectơ chỉ phương hoặc quan hệ song song."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B23",
+        "title": "Bài 23. Đường thẳng vuông góc với mặt phẳng",
+        "order": 23,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-047",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.3",
+            "content": "Nêu điều kiện đường thẳng vuông góc với mặt phẳng (vuông góc với hai đường thẳng cắt nhau nằm trong mp), định lí ba đường vuông góc."
+          },
+          {
+            "id": "TOAN11-YCCD-048",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.4",
+            "content": "Chứng minh đường thẳng vuông góc với mặt phẳng và xác định hình chiếu vuông góc của một điểm lên mặt phẳng."
+          },
+          {
+            "id": "TOAN11-YCCD-049",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.5",
+            "content": "Tính góc giữa đường thẳng và mặt phẳng dựa trên hình chiếu vuông góc của đường thẳng lên mặt phẳng đó."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B24",
+        "title": "Bài 24. Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+        "order": 24,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-050A",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.5A",
+            "content": "Nêu định nghĩa phép chiếu vuông góc và góc giữa đường thẳng với mặt phẳng."
+          },
+          {
+            "id": "TOAN11-YCCD-050B",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.5B",
+            "content": "Xác định hình chiếu vuông góc và tính góc giữa đường thẳng với mặt phẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B25",
+        "title": "Bài 25. Hai mặt phẳng vuông góc",
+        "order": 25,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-050",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.6",
+            "content": "Nêu định nghĩa góc giữa hai mặt phẳng, khái niệm góc nhị diện và điều kiện để hai mặt phẳng vuông góc."
+          },
+          {
+            "id": "TOAN11-YCCD-051",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.7",
+            "content": "Chứng minh hai mặt phẳng vuông góc và tính góc phẳng nhị diện trong các hình chóp, hình lập phương."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B26",
+        "title": "Bài 26. Khoảng cách",
+        "order": 26,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-052",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.8",
+            "content": "Tính khoảng cách từ một điểm đến một đường thẳng, từ một điểm đến một mặt phẳng trong không gian."
+          },
+          {
+            "id": "TOAN11-YCCD-053",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.9",
+            "content": "Tính khoảng cách giữa hai đường thẳng chéo nhau bằng cách dựng đường vuông góc chung hoặc mặt phẳng song song chứa một đường thẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B27",
+        "title": "Bài 27. Thể tích",
+        "order": 27,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-054",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.10",
+            "content": "Nêu công thức tính thể tích khối chóp V = 1/3 S_đáy . h, khối lăng trụ V = S_đáy . h và khối hộp chữ nhật V = a.b.c."
+          },
+          {
+            "id": "TOAN11-YCCD-055",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.7.11",
+            "content": "Tính thể tích khối đa diện (hình chóp tam giác, tứ giác đều) khi biết các kích thước cạnh và góc."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH8",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 8,
+    "code": "CH8-TOAN11",
+    "title": "Chương 8. Các quy tắc tính xác suất",
+    "lessons": [
+      {
+        "id": "TOAN11-B28",
+        "title": "Bài 28. Biến cố hợp và biến cố giao. Biến cố độc lập",
+        "order": 28,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-056A",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.8.1A",
+            "content": "Nhận biết biến cố hợp, biến cố giao và tính độc lập của hai biến cố."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B29",
+        "title": "Bài 29. Công thức cộng xác suất",
+        "order": 29,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-056",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.8.1",
+            "content": "Nêu công thức cộng xác suất P(A ∪ B) = P(A) + P(B) khi hai biến cố xung khắc."
+          },
+          {
+            "id": "TOAN11-YCCD-057",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.8.2",
+            "content": "Tính xác suất của biến cố hợp tổng quát: P(A ∪ B) = P(A) + P(B) - P(A ∩ B)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B30",
+        "title": "Bài 30. Công thức nhân xác suất cho hai biến cố độc lập",
+        "order": 30,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-058",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.8.3",
+            "content": "Nêu công thức nhân xác suất P(A ∩ B) = P(A).P(B) khi hai biến cố độc lập."
+          },
+          {
+            "id": "TOAN11-YCCD-059",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.8.4",
+            "content": "Vận dụng kết hợp công thức cộng và công thức nhân xác suất trong các bài toán thực tiễn."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN11-CH9",
+    "subject": "Toan",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 9,
+    "code": "CH9-TOAN11",
+    "title": "Chương 9. Đạo hàm",
+    "lessons": [
+      {
+        "id": "TOAN11-B31",
+        "title": "Bài 31. Định nghĩa và ý nghĩa của đạo hàm",
+        "order": 31,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-060",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.9.1",
+            "content": "Nêu định nghĩa đạo hàm của hàm số tại một điểm, ý nghĩa vật lí (vận tốc tức thời) và ý nghĩa hình học (hệ số góc tiếp tuyến)."
+          },
+          {
+            "id": "TOAN11-YCCD-061",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.9.2",
+            "content": "Viết phương trình tiếp tuyến của đồ thị hàm số tại điểm có toạ độ (x0, y0) nằm trên đồ thị: y = f'(x0).(x - x0) + y0."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B32",
+        "title": "Bài 32. Các quy tắc tính đạo hàm",
+        "order": 32,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-062",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.9.3",
+            "content": "Nêu đạo hàm của các hàm số sơ cấp cơ bản và quy tắc cộng, trừ, nhân, chia, hàm hợp."
+          },
+          {
+            "id": "TOAN11-YCCD-063",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.9.4",
+            "content": "Tính đạo hàm của tổng, hiệu, tích, thương các hàm số và áp dụng công thức đạo hàm hàm hợp."
+          }
+        ]
+      },
+      {
+        "id": "TOAN11-B33",
+        "title": "Bài 33. Đạo hàm cấp hai",
+        "order": 33,
+        "yccds": [
+          {
+            "id": "TOAN11-YCCD-064",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.9.5",
+            "content": "Nêu định nghĩa đạo hàm cấp hai f''(x) = (f'(x))' và ý nghĩa cơ học của đạo hàm cấp hai."
+          },
+          {
+            "id": "TOAN11-YCCD-065",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN11.9.6",
+            "content": "Vận dụng tính đạo hàm cấp hai xác định gia tốc chuyển động của chất điểm tại thời điểm t."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN12-CH1",
+    "subject": "Toan",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 1,
+    "code": "CH1-TOAN12",
+    "title": "Chương 1. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+    "lessons": [
+      {
+        "id": "TOAN12-B1",
+        "title": "Bài 1. Tính đơn điệu và cực trị của hàm số",
+        "order": 1,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-001",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.1",
+            "content": "Nhận biết tính đồng biến, nghịch biến của hàm số trên một khoảng dựa vào dấu của đạo hàm cấp một f'(x)."
+          },
+          {
+            "id": "TOAN12-YCCD-002",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.2",
+            "content": "Nhận biết điểm cực đại, điểm cực tiểu, giá trị cực trị của hàm số thông qua bảng biến thiên hoặc đồ thị."
+          },
+          {
+            "id": "TOAN12-YCCD-003",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.3",
+            "content": "Tìm khoảng đơn điệu và các điểm cực trị của hàm số đa thức bậc ba, hàm phân thức hữu tỉ."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B2",
+        "title": "Bài 2. Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+        "order": 2,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-004",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.4",
+            "content": "Nêu định nghĩa giá trị lớn nhất (GTLN), giá trị nhỏ nhất (GTNN) của hàm số trên tập xác định."
+          },
+          {
+            "id": "TOAN12-YCCD-005",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.5",
+            "content": "Xác định GTLN, GTNN của hàm số liên tục trên một đoạn [a; b] bằng quy tắc đạo hàm."
+          },
+          {
+            "id": "TOAN12-YCCD-006",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.6",
+            "content": "Vận dụng GTLN, GTNN giải bài toán tối ưu thực tiễn (tiết kiệm chi phí sản xuất hộp sữa, diện tích chuồng trại lớn nhất)."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B3",
+        "title": "Bài 3. Đường tiệm cận của đồ thị hàm số",
+        "order": 3,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-007",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.7",
+            "content": "Nhận biết hình ảnh hình học và định nghĩa của đường tiệm cận đứng, tiệm cận ngang và tiệm cận xiên."
+          },
+          {
+            "id": "TOAN12-YCCD-008",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.8",
+            "content": "Tìm phương trình các đường tiệm cận của đồ thị hàm phân thức bậc nhất trên bậc nhất và bậc hai trên bậc nhất."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B4",
+        "title": "Bài 4. Khảo sát sự biến thiên và vẽ đồ thị của hàm số",
+        "order": 4,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-009",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.9",
+            "content": "Mô tả sơ đồ tổng quát khảo sát hàm số (TXĐ, tính đơn điệu, cực trị, tiệm cận, bảng biến thiên, đồ thị)."
+          },
+          {
+            "id": "TOAN12-YCCD-010",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.10",
+            "content": "Khảo sát và vẽ đồ thị của hàm đa thức bậc ba y = ax^3 + bx^2 + cx + d và hàm phân thức (ax+b)/(cx+d)."
+          },
+          {
+            "id": "TOAN12-YCCD-011",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.11",
+            "content": "Nhận biết tâm đối xứng và trục đối xứng của đồ thị hàm số từ dạng đồ thị."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B5",
+        "title": "Bài 5. Ứng dụng thực tế của đạo hàm",
+        "order": 5,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-012",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.1.12",
+            "content": "Vận dụng đạo hàm giải các bài toán tối ưu liên môn trong Vật lí (quãng đường cực đại, công suất cực đại) và kinh tế (lợi nhuận biên)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN12-CH2",
+    "subject": "Toan",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 2,
+    "code": "CH2-TOAN12",
+    "title": "Chương 2. Toạ độ của vectơ trong không gian",
+    "lessons": [
+      {
+        "id": "TOAN12-B6",
+        "title": "Bài 6. Vectơ trong không gian",
+        "order": 6,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-013",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.2.1",
+            "content": "Nhận biết vectơ trong không gian, các phép toán cộng, trừ vectơ, nhân với một số và quy tắc hình hộp."
+          },
+          {
+            "id": "TOAN12-YCCD-014",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.2.2",
+            "content": "Chứng minh hệ thức vectơ trong hình tứ diện, hình hộp và tính tích vô hướng của hai vectơ trong không gian."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B7",
+        "title": "Bài 7. Hệ toạ độ trong không gian",
+        "order": 7,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-015",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.2.3",
+            "content": "Nhận biết hệ toạ độ Oxyz trong không gian, toạ độ của điểm M(x; y; z) và toạ độ của vectơ u = (x; y; z)."
+          },
+          {
+            "id": "TOAN12-YCCD-016",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.2.4",
+            "content": "Biểu thức toạ độ của các phép toán vectơ: tổng, hiệu, tích một số với vectơ và toạ độ trung điểm, toạ độ trọng tâm."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B8",
+        "title": "Bài 8. Biểu thức toạ độ của các phép toán vectơ",
+        "order": 8,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-017",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.2.5",
+            "content": "Tính độ dài vectơ, khoảng cách giữa hai điểm trong Oxyz, tích vô hướng u.v và góc giữa hai vectơ."
+          },
+          {
+            "id": "TOAN12-YCCD-018",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.2.6",
+            "content": "Vận dụng toạ độ vectơ giải các bài toán định vị không gian 3D, hệ toạ độ GPS mặt đất."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN12-CH3",
+    "subject": "Toan",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 3,
+    "code": "CH3-TOAN12",
+    "title": "Chương 3. Các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+    "lessons": [
+      {
+        "id": "TOAN12-B9",
+        "title": "Bài 9. Khoảng biến thiên và khoảng tứ phân vị",
+        "order": 9,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-019",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.3.1",
+            "content": "Nêu định nghĩa và ý nghĩa của khoảng biến thiên R và khoảng tứ phân vị Δ_Q của mẫu số liệu ghép nhóm."
+          },
+          {
+            "id": "TOAN12-YCCD-020",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.3.2",
+            "content": "Tính khoảng biến thiên và khoảng tứ phân vị của mẫu số liệu ghép nhóm cho trước."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B10",
+        "title": "Bài 10. Phương sai và độ lệch chuẩn",
+        "order": 10,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-021",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.3.3",
+            "content": "Nêu định nghĩa và ý nghĩa của phương sai s^2 và độ lệch chuẩn s của mẫu số liệu ghép nhóm."
+          },
+          {
+            "id": "TOAN12-YCCD-022",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.3.4",
+            "content": "Tính phương sai và độ lệch chuẩn của mẫu số liệu ghép nhóm bằng công thức và máy tính cầm tay."
+          },
+          {
+            "id": "TOAN12-YCCD-023",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.3.5",
+            "content": "Rút ra kết luận thực tiễn về mức độ rủi ro đầu tư tài chính hoặc độ ổn định của năng suất cây trồng dựa vào phương sai."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN12-CH4",
+    "subject": "Toan",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 4,
+    "code": "CH4-TOAN12",
+    "title": "Chương 4. Nguyên hàm và tích phân",
+    "lessons": [
+      {
+        "id": "TOAN12-B11",
+        "title": "Bài 11. Nguyên hàm",
+        "order": 11,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-024",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.4.1",
+            "content": "Nêu định nghĩa nguyên hàm, các tính chất cơ bản của nguyên hàm và bảng nguyên hàm của các hàm số sơ cấp cơ bản."
+          },
+          {
+            "id": "TOAN12-YCCD-025",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.4.2",
+            "content": "Tìm họ nguyên hàm của các hàm số đa thức, lượng giác, mũ bằng phương pháp trực tiếp hoặc đổi biến số đơn giản."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B12",
+        "title": "Bài 12. Tích phân",
+        "order": 12,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-026",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.4.3",
+            "content": "Nêu định nghĩa tích phân theo công thức Newton - Leibniz: ∫(a->b) f(x)dx = F(b) - F(a) và các tính chất của tích phân."
+          },
+          {
+            "id": "TOAN12-YCCD-027",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.4.4",
+            "content": "Tính tích phân bằng phương pháp đổi biến số và phương pháp tích phân từng phần: ∫ u dv = u.v - ∫ v du."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B13",
+        "title": "Bài 13. Ứng dụng hình học của tích phân",
+        "order": 13,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-028",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.4.5",
+            "content": "Tính diện tích hình phẳng giới hạn bởi đồ thị hàm số y = f(x), trục hoành và hai đường thẳng x = a, x = b: S = ∫(a->b) |f(x)|dx."
+          },
+          {
+            "id": "TOAN12-YCCD-029",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.4.6",
+            "content": "Tính thể tích khối tròn xoay khi quay hình phẳng quanh trục Ox: V = π ∫(a->b) [f(x)]^2 dx và giải bài toán tính quãng đường s(t) = ∫ v(t)dt."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN12-CH5",
+    "subject": "Toan",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 5,
+    "code": "CH5-TOAN12",
+    "title": "Chương 5. Phương pháp toạ độ trong không gian",
+    "lessons": [
+      {
+        "id": "TOAN12-B14",
+        "title": "Bài 14. Phương trình mặt phẳng",
+        "order": 14,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-030",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.1",
+            "content": "Nêu định nghĩa vectơ pháp tuyến của mặt phẳng, phương trình tổng quát Ax + By + Cz + D = 0 (A^2 + B^2 + C^2 > 0)."
+          },
+          {
+            "id": "TOAN12-YCCD-031",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.2",
+            "content": "Lập phương trình mặt phẳng đi qua một điểm có VTPT; đi qua ba điểm không thẳng hàng hoặc qua điểm và vuông góc với đường thẳng."
+          },
+          {
+            "id": "TOAN12-YCCD-032",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.3",
+            "content": "Tính khoảng cách từ điểm M(x0, y0, z0) đến mặt phẳng (P) và xét vị trí tương đối giữa hai mặt phẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B15",
+        "title": "Bài 15. Phương trình đường thẳng trong không gian",
+        "order": 15,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-033",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.4",
+            "content": "Nêu định nghĩa vectơ chỉ phương, phương trình tham số và phương trình chính tắc của đường thẳng trong không gian."
+          },
+          {
+            "id": "TOAN12-YCCD-034",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.5",
+            "content": "Viết phương trình tham số và chính tắc của đường thẳng đi qua một điểm và có VTCP; đi qua hai điểm."
+          },
+          {
+            "id": "TOAN12-YCCD-035",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.6",
+            "content": "Xét vị trí tương đối giữa hai đường thẳng (song song, cắt nhau, chéo nhau, trùng nhau) và giữa đường thẳng với mặt phẳng."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B16",
+        "title": "Bài 16. Công thức tính góc trong không gian",
+        "order": 16,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-036",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.7",
+            "content": "Nêu công thức tính góc giữa hai đường thẳng, góc giữa đường thẳng và mặt phẳng, góc giữa hai mặt phẳng trong không gian Oxyz."
+          },
+          {
+            "id": "TOAN12-YCCD-037",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.8",
+            "content": "Tính góc giữa đường thẳng và mặt phẳng đáy trong khối chóp bằng phương pháp toạ độ hoá hình không gian."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B17",
+        "title": "Bài 17. Phương trình mặt cầu",
+        "order": 17,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-038",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.9",
+            "content": "Nêu phương trình mặt cầu (x - a)^2 + (y - b)^2 + (z - c)^2 = R^2 và điều kiện phương trình x^2 + y^2 + z^2 - 2ax - 2by - 2cz + d = 0 là mặt cầu."
+          },
+          {
+            "id": "TOAN12-YCCD-039",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.10",
+            "content": "Xác định tâm I và bán kính R của mặt cầu; viết phương trình mặt cầu biết tâm và tiếp xúc với mặt phẳng hoặc đi qua các điểm."
+          },
+          {
+            "id": "TOAN12-YCCD-040",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.5.11",
+            "content": "Xét vị trí tương đối giữa mặt cầu và mặt phẳng (cắt nhau theo đường tròn, tiếp xúc, không giao nhau) và viết phương trình tiếp diện."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "TOAN12-CH6",
+    "subject": "Toan",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 6,
+    "code": "CH6-TOAN12",
+    "title": "Chương 6. Xác suất có điều kiện",
+    "lessons": [
+      {
+        "id": "TOAN12-B18",
+        "title": "Bài 18. Xác suất có điều kiện",
+        "order": 18,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-041",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.6.1",
+            "content": "Nêu định nghĩa xác suất có điều kiện P(A|B) = P(A ∩ B) / P(B) với P(B) > 0 và ý nghĩa thực tế."
+          },
+          {
+            "id": "TOAN12-YCCD-042",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.6.2",
+            "content": "Tính xác suất có điều kiện từ bảng số liệu thống kê 2x2 hoặc mô hình thực nghiệm đơn giản."
+          }
+        ]
+      },
+      {
+        "id": "TOAN12-B19",
+        "title": "Bài 19. Công thức xác suất toàn phần và công thức Bayes",
+        "order": 19,
+        "yccds": [
+          {
+            "id": "TOAN12-YCCD-043",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.6.3",
+            "content": "Nêu công thức xác suất toàn phần P(A) = ∑ P(Bi).P(A|Bi) và công thức Bayes P(Bk|A) = [P(Bk).P(A|Bk)] / P(A)."
+          },
+          {
+            "id": "TOAN12-YCCD-044",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.6.4",
+            "content": "Vận dụng sơ đồ hình cây để phân tích và tính xác suất theo công thức xác suất toàn phần."
+          },
+          {
+            "id": "TOAN12-YCCD-045",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "TOAN12.6.5",
+            "content": "Vận dụng công thức Bayes tính xác suất một người thực sự mắc bệnh khi có kết quả xét nghiệm y tế dương tính."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2148 @@
+[
+  {
+    "id": "VL10-CH1",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 1,
+    "code": "CH1-VL10",
+    "title": "Chương 1. Mở đầu",
+    "lessons": [
+      {
+        "id": "VL10-B1",
+        "title": "Bài 1. Làm quen với Vật lí",
+        "order": 1,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-001",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.1",
+            "content": "Nêu được đối tượng nghiên cứu của Vật lí học và mục tiêu của môn Vật lí."
+          },
+          {
+            "id": "VL10-YCCD-002",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.2",
+            "content": "Phân tích được một số ảnh hưởng của vật lí đối với cuộc sống, đối với sự phát triển của khoa học, công nghệ và kĩ thuật."
+          },
+          {
+            "id": "VL10-YCCD-003",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.3",
+            "content": "Nêu được ví dụ chứng tỏ kiến thức, kĩ năng vật lí được sử dụng trong một số lĩnh vực công nghiệp, đời sống."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B2",
+        "title": "Bài 2. Các quy tắc an toàn trong phòng thực hành Vật lí",
+        "order": 2,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-004",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.4",
+            "content": "Nêu và thảo luận được các quy tắc an toàn trong nghiên cứu và học tập môn Vật lí."
+          },
+          {
+            "id": "VL10-YCCD-005",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.5",
+            "content": "Nhận biết các biển cảnh báo nguy hiểm và quy định an toàn khi thao tác với nguồn điện, nhiệt, quang học."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B3",
+        "title": "Bài 3. Thực hành tính sai số trong phép đo. Ghi kết quả đo",
+        "order": 3,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-006",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.6",
+            "content": "Nêu được các loại sai số đơn giản hay gặp khi đo các đại lượng vật lí (sai số hệ thống, sai số ngẫu nhiên) và cách khắc phục."
+          },
+          {
+            "id": "VL10-YCCD-007",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.7",
+            "content": "Mô tả được các bước tính sai số tuyệt đối, sai số tỉ đối và quy tắc viết đúng kết quả đo của đại lượng vật lí."
+          },
+          {
+            "id": "VL10-YCCD-008",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.1.8",
+            "content": "Thực hiện tính toán sai số trực tiếp và gián tiếp từ bảng số liệu thực nghiệm đo đạc cụ thể."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL10-CH2",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 2,
+    "code": "CH2-VL10",
+    "title": "Chương II. Động học",
+    "lessons": [
+      {
+        "id": "VL10-B4",
+        "title": "Bài 4. Độ dịch chuyển và quãng đường đi được",
+        "order": 4,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-009",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.1",
+            "content": "Từ hình ảnh hoặc ví dụ thực tiễn, định nghĩa được độ dịch chuyển; so sánh được quãng đường đi được và độ dịch chuyển."
+          },
+          {
+            "id": "VL10-YCCD-010",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.2",
+            "content": "Biểu diễn được vectơ độ dịch chuyển trong hệ toạ độ và phân biệt độ lớn độ dịch chuyển với quãng đường."
+          },
+          {
+            "id": "VL10-YCCD-011",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.3",
+            "content": "Xác định được độ dịch chuyển tổng hợp và quãng đường trong các bài toán chuyển động thực tế nhiều chặng."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B5",
+        "title": "Bài 5. Tốc độ và vận tốc",
+        "order": 5,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-012",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.4",
+            "content": "Lập luận rút ra công thức tính tốc độ trung bình, định nghĩa được tốc độ và vận tốc."
+          },
+          {
+            "id": "VL10-YCCD-013",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.5",
+            "content": "Dựa vào định nghĩa tốc độ theo một phương và độ dịch chuyển, rút ra công thức tính và định nghĩa vận tốc; phân biệt tốc độ và vận tốc."
+          },
+          {
+            "id": "VL10-YCCD-014",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.6",
+            "content": "Vận dụng được công thức tính tốc độ, vận tốc và công thức cộng vận tốc tổng hợp trong các tình huống thực tiễn."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B6",
+        "title": "Bài 6. Thực hành: Đo tốc độ của vật chuyển động",
+        "order": 6,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-015",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.7",
+            "content": "Thảo luận thiết kế phương án hoặc lựa chọn phương án và thực hiện đo tốc độ bằng dụng cụ thực hành (cổng quang điện, đồng hồ hiện số)."
+          },
+          {
+            "id": "VL10-YCCD-016",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.8",
+            "content": "Mô tả được một vài phương pháp đo tốc độ thông dụng và đánh giá được ưu, nhược điểm của chúng."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B7",
+        "title": "Bài 7. Đồ thị độ dịch chuyển – thời gian",
+        "order": 7,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-017",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.9",
+            "content": "Nhận dạng được dạng đồ thị độ dịch chuyển – thời gian (d – t) trong chuyển động thẳng đều và đứng yên."
+          },
+          {
+            "id": "VL10-YCCD-018",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.10",
+            "content": "Tính được tốc độ từ độ dốc của đồ thị độ dịch chuyển – thời gian và vẽ đồ thị dựa trên số liệu cho trước."
+          },
+          {
+            "id": "VL10-YCCD-019",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.11",
+            "content": "Khai thác đồ thị (d – t) để xác định thời điểm và vị trí gặp nhau của hai chuyển động thẳng."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B8",
+        "title": "Bài 8. Chuyển động biến đổi. Gia tốc",
+        "order": 8,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-020",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.12",
+            "content": "Nêu được ý nghĩa, định nghĩa và đơn vị của gia tốc trong chuyển động biến đổi."
+          },
+          {
+            "id": "VL10-YCCD-021",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.13",
+            "content": "Lập luận rút ra công thức tính gia tốc a = (v - v0)/t và xác định được tính chất nhanh dần đều, chậm dần đều từ dấu của a và v."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B9",
+        "title": "Bài 9. Chuyển động thẳng biến đổi đều",
+        "order": 9,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-022",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.14",
+            "content": "Nêu được các phương trình vận tốc, độ dịch chuyển và phương trình liên hệ giữa gia tốc, vận tốc và quãng đường."
+          },
+          {
+            "id": "VL10-YCCD-023",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.15",
+            "content": "Vận dụng đồ thị vận tốc – thời gian (v – t) để tính độ dịch chuyển và gia tốc trong một số trường hợp đơn giản."
+          },
+          {
+            "id": "VL10-YCCD-024",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.16",
+            "content": "Vận dụng các công thức của chuyển động thẳng biến đổi đều để giải các bài toán chuyển động thực tế (hãm phanh, tăng tốc)."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B10",
+        "title": "Bài 10. Sự rơi tự do",
+        "order": 10,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-025",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.17",
+            "content": "Nêu được đặc điểm của sự rơi tự do và gia tốc rơi tự do g."
+          },
+          {
+            "id": "VL10-YCCD-026",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.18",
+            "content": "Mô tả định tính chuyển động rơi trong trường trọng lực đều khi có và không có sức cản của không khí."
+          },
+          {
+            "id": "VL10-YCCD-027",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.19",
+            "content": "Vận dụng các công thức rơi tự do tính thời gian rơi, vận tốc chạm đất và quãng đường đi được trong giây thứ n."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B11",
+        "title": "Bài 11. Thực hành: Đo gia tốc rơi tự do",
+        "order": 11,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-028",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.20",
+            "content": "Thảo luận thiết kế phương án hoặc lựa chọn phương án và thực hiện đo gia tốc rơi tự do bằng dụng cụ thực hành."
+          },
+          {
+            "id": "VL10-YCCD-029",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.21",
+            "content": "Xử lí số liệu thực nghiệm đo gia tốc rơi tự do và viết đúng kết quả đo kèm sai số."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B12",
+        "title": "Bài 12. Chuyển động ném",
+        "order": 12,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-030",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.22",
+            "content": "Nêu được tính chất chuyển động của vật bị ném ngang theo hai phương Ox (thẳng đều) và Oy (rơi tự do)."
+          },
+          {
+            "id": "VL10-YCCD-031",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.23",
+            "content": "Mô tả và giải thích được chuyển động ném ngang; viết phương trình quỹ đạo của vật ném ngang."
+          },
+          {
+            "id": "VL10-YCCD-032",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.2.24",
+            "content": "Vận dụng tính tầm xa, thời gian rơi và vận tốc chạm đất trong chuyển động ném ngang hoặc ném xiên."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL10-CH3",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 3,
+    "code": "CH3-VL10",
+    "title": "Chương III. Động lực học",
+    "lessons": [
+      {
+        "id": "VL10-B13",
+        "title": "Bài 13. Tổng hợp và phân tích lực. Cân bằng lực",
+        "order": 13,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-033",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.1",
+            "content": "Nêu được định nghĩa lực, tổng hợp lực và quy tắc hình bình hành lực."
+          },
+          {
+            "id": "VL10-YCCD-034",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.2",
+            "content": "Dùng hình vẽ tổng hợp các lực đồng quy trên một mặt phẳng và phân tích một lực thành hai lực thành phần vuông góc."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B14",
+        "title": "Bài 14. Định luật 1 Newton",
+        "order": 14,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-035",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.3",
+            "content": "Phát biểu được định luật 1 Newton và nêu được khái niệm quán tính."
+          },
+          {
+            "id": "VL10-YCCD-036",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.4",
+            "content": "Minh hoạ và giải thích được các hiện tượng quán tính trong đời sống và giao thông vận tải."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B15",
+        "title": "Bài 15. Định luật 2 Newton",
+        "order": 15,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-037",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.5",
+            "content": "Phát biểu được định luật 2 Newton, viết biểu thức F = ma và nêu được khối lượng là đại lượng đặc trưng cho mức quán tính của vật."
+          },
+          {
+            "id": "VL10-YCCD-038",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.6",
+            "content": "Vận dụng được mối liên hệ đơn vị dẫn xuất N (newton) với các đơn vị cơ bản kg, m, s trong hệ SI."
+          },
+          {
+            "id": "VL10-YCCD-039",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.7",
+            "content": "Vận dụng định luật 2 Newton để tìm gia tốc, lực tác dụng hoặc khối lượng trong các trường hợp vật chịu nhiều lực."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B16",
+        "title": "Bài 16. Định luật 3 Newton",
+        "order": 16,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-040",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.8",
+            "content": "Phát biểu được định luật 3 Newton và nêu được đặc điểm của cặp lực trực đối (lực và phản lực)."
+          },
+          {
+            "id": "VL10-YCCD-041",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.9",
+            "content": "Minh hoạ được bằng ví dụ cụ thể về cặp lực trực đối và phân biệt cặp lực trực đối với cặp lực cân bằng."
+          },
+          {
+            "id": "VL10-YCCD-042",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.10",
+            "content": "Vận dụng định luật 3 Newton trong tương tác giữa các vật (chuyển động của tên lửa, người bơi, bóng va vào tường)."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B17",
+        "title": "Bài 17. Trọng lực và lực căng",
+        "order": 17,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-043",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.11",
+            "content": "Nêu được: trọng lực tác dụng lên vật là lực hấp dẫn giữa Trái Đất và vật; trọng tâm; trọng lượng P = mg; nêu đặc điểm lực căng dây."
+          },
+          {
+            "id": "VL10-YCCD-044",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.12",
+            "content": "Biểu diễn bằng hình vẽ vectơ trọng lực và vectơ lực căng dây trong các trạng thái cân bằng cơ bản."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B18",
+        "title": "Bài 18. Lực ma sát",
+        "order": 18,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-045",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.13",
+            "content": "Nêu được đặc điểm và công thức tính lực ma sát trượt F_mst = μ.N, lực ma sát nghỉ và ma sát lăn."
+          },
+          {
+            "id": "VL10-YCCD-046",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.14",
+            "content": "Biểu diễn lực ma sát trên hình vẽ và giải thích vai trò có lợi/có hại của ma sát trong thực tiễn."
+          },
+          {
+            "id": "VL10-YCCD-047",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.15",
+            "content": "Vận dụng giải bài toán chuyển động có lực ma sát trên mặt phẳng nằm ngang và mặt phẳng nghiêng."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B19",
+        "title": "Bài 19. Lực cản và lực nâng",
+        "order": 19,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-048",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.16",
+            "content": "Mô tả được bằng ví dụ thực tiễn lực cản khi vật chuyển động trong chất lưu và lực nâng (Archimedes)."
+          },
+          {
+            "id": "VL10-YCCD-049",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.17",
+            "content": "Giải thích nguyên nhân xuất hiện lực nâng và sự phụ thuộc của lực cản vào hình dạng khí động học của vật."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B20",
+        "title": "Bài 20. Một số ví dụ về cách giải các bài toán thuộc phần động lực học",
+        "order": 20,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-050",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.18",
+            "content": "Mô tả phương pháp động lực học giải bài toán chuyển động: chọn hệ quy chiếu, phân tích lực, viết phương trình định luật 2 Newton."
+          },
+          {
+            "id": "VL10-YCCD-051",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.19",
+            "content": "Vận dụng phương pháp động lực học giải bài toán vật chuyển động trên mặt phẳng nghiêng hoặc hệ nhiều vật nối bằng dây."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B21",
+        "title": "Bài 21. Moment lực. Cân bằng của vật rắn",
+        "order": 21,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-052",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.20",
+            "content": "Nêu được khái niệm moment lực M = F.d, cánh tay đòn, ngẫu lực và tác dụng làm quay của ngẫu lực."
+          },
+          {
+            "id": "VL10-YCCD-053",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.21",
+            "content": "Phát biểu quy tắc moment lực và điều kiện cân bằng của một vật có trục quay cố định hoặc vật rắn tổng quát."
+          },
+          {
+            "id": "VL10-YCCD-054",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.22",
+            "content": "Vận dụng quy tắc moment lực giải quyết các bài toán đòn bẩy, cân cơ học, cầu bập bênh trong đời sống."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B22",
+        "title": "Bài 22. Thực hành: Tổng hợp lực",
+        "order": 22,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-055",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.23",
+            "content": "Thực hiện phương án thí nghiệm tổng hợp hai lực đồng quy và hai lực song song cùng chiều bằng dụng cụ thực hành."
+          },
+          {
+            "id": "VL10-YCCD-056",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.3.24",
+            "content": "Xử lí số liệu và so sánh độ lớn, hướng của hợp lực thực nghiệm với quy tắc hình bình hành lực."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL10-CH4",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 4,
+    "code": "CH4-VL10",
+    "title": "Chương IV. Năng lượng, công, công suất",
+    "lessons": [
+      {
+        "id": "VL10-B23",
+        "title": "Bài 23. Năng lượng. Công cơ học",
+        "order": 23,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-057",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.1",
+            "content": "Nêu được biểu thức tính công A = F.s.cosα, đơn vị đo công Joule (1 J = 1 N.m)."
+          },
+          {
+            "id": "VL10-YCCD-058",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.2",
+            "content": "Phân biệt được công phát động (α < 90°), công cản (α > 90°) và trường hợp lực không sinh công (α = 90°)."
+          },
+          {
+            "id": "VL10-YCCD-059",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.3",
+            "content": "Tính công của trọng lực, công của lực kéo và công của lực ma sát khi vật dịch chuyển trong các tình huống thực tiễn."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B24",
+        "title": "Bài 24. Công suất",
+        "order": 24,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-060",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.4",
+            "content": "Nêu được định nghĩa công suất P = A/t và đơn vị đo công suất Watt (W)."
+          },
+          {
+            "id": "VL10-YCCD-061",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.5",
+            "content": "Vận dụng mối liên hệ giữa công suất với lực tác dụng và vận tốc tức thời: P = F.v."
+          },
+          {
+            "id": "VL10-YCCD-062",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.6",
+            "content": "Giải các bài toán thực tiễn về công suất động cơ ô tô, xe máy khi lên dốc hoặc tăng tốc."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B25",
+        "title": "Bài 25. Động năng, thế năng",
+        "order": 25,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-063",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.7",
+            "content": "Nêu được định nghĩa và công thức tính động năng W_d = 1/2 m.v^2 và thế năng trọng trường W_t = mgh."
+          },
+          {
+            "id": "VL10-YCCD-064",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.8",
+            "content": "Giải thích định lí động năng: độ biến thiên động năng của một vật bằng tổng công của các ngoại lực tác dụng lên vật."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B26",
+        "title": "Bài 26. Cơ năng và định luật bảo toàn cơ năng",
+        "order": 26,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-065",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.9",
+            "content": "Nêu được khái niệm cơ năng W = W_d + W_t và phát biểu định luật bảo toàn cơ năng trong trọng trường."
+          },
+          {
+            "id": "VL10-YCCD-066",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.10",
+            "content": "Phân tích sự chuyển hoá giữa động năng và thế năng trong chuyển động của con lắc đơn, vật rơi tự do, tàu lượn siêu tốc."
+          },
+          {
+            "id": "VL10-YCCD-067",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.11",
+            "content": "Vận dụng định luật bảo toàn cơ năng hoặc định lí biến thiên cơ năng khi có lực ma sát để tính vận tốc, độ cao cực đại."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B27",
+        "title": "Bài 27. Hiệu suất",
+        "order": 27,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-068",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.12",
+            "content": "Nêu được định nghĩa hiệu suất H = (Năng lượng có ích / Năng lượng toàn phần) * 100%."
+          },
+          {
+            "id": "VL10-YCCD-069",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.4.13",
+            "content": "Xác định phần năng lượng có ích và phần năng lượng hao phí trong các động cơ nhiệt, máy điện, pin mặt trời."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL10-CH5",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 5,
+    "code": "CH5-VL10",
+    "title": "Chương V. Động lượng",
+    "lessons": [
+      {
+        "id": "VL10-B28",
+        "title": "Bài 28. Động lượng",
+        "order": 28,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-070",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.1",
+            "content": "Nêu được định nghĩa vectơ động lượng p = m.v, đơn vị đo kg.m/s hoặc N.s."
+          },
+          {
+            "id": "VL10-YCCD-071",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.2",
+            "content": "Rút ra mối liên hệ giữa xung lượng của lực và độ biến thiên động lượng: Δp = F.Δt."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B29",
+        "title": "Bài 29. Định luật bảo toàn động lượng",
+        "order": 29,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-072",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.3",
+            "content": "Nêu được khái niệm hệ kín và phát biểu định luật bảo toàn động lượng cho hệ kín."
+          },
+          {
+            "id": "VL10-YCCD-073",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.4",
+            "content": "Phân biệt va chạm đàn hồi (động năng được bảo toàn) và va chạm mềm (hai vật dính liền sau va chạm)."
+          },
+          {
+            "id": "VL10-YCCD-074",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.5",
+            "content": "Vận dụng định luật bảo toàn động lượng giải bài toán va chạm mềm và chuyển động bằng phản lực (súng giật khi bắn, tên lửa phụt khí)."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B30",
+        "title": "Bài 30. Thực hành: Xác định động lượng của vật trước và sau va chạm",
+        "order": 30,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-075",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.6",
+            "content": "Thực hiện thí nghiệm đo vận tốc của hai xe trước và sau va chạm trên đệm khí để xác định động lượng."
+          },
+          {
+            "id": "VL10-YCCD-076",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.5.7",
+            "content": "Đánh giá sai số và kiểm chứng sự bảo toàn động lượng từ kết quả thực nghiệm thu được."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL10-CH6",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 6,
+    "code": "CH6-VL10",
+    "title": "Chương VI. Chuyển động tròn",
+    "lessons": [
+      {
+        "id": "VL10-B31",
+        "title": "Bài 31. Động học của chuyển động tròn đều",
+        "order": 31,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-077",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.6.1",
+            "content": "Nêu định nghĩa radian, tốc độ góc ω, chu kì T, tần số f và mối liên hệ v = r.ω."
+          },
+          {
+            "id": "VL10-YCCD-078",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.6.2",
+            "content": "Mô tả đặc điểm vectơ vận tốc tức thời trong chuyển động tròn đều (phương tiếp tuyến, chiều theo chiều chuyển động)."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B32",
+        "title": "Bài 32. Lực hướng tâm và gia tốc hướng tâm",
+        "order": 32,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-079",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.6.3",
+            "content": "Nêu được biểu thức gia tốc hướng tâm a_ht = v^2/r = r.ω^2 và biểu thức lực hướng tâm F_ht = m.a_ht."
+          },
+          {
+            "id": "VL10-YCCD-080",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.6.4",
+            "content": "Xác định các lực hoặc hợp lực đóng vai trò là lực hướng tâm (lực hấp dẫn, lực ma sát nghỉ, lực căng dây)."
+          },
+          {
+            "id": "VL10-YCCD-081",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.6.5",
+            "content": "Thảo luận và đề xuất giải pháp an toàn khi xe đi vào khúc cua, thiết kế mặt đường nghiêng để chống lật xe."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL10-CH7",
+    "subject": "VatLi",
+    "grade": 10,
+    "textbook": "KNTT",
+    "order": 7,
+    "code": "CH7-VL10",
+    "title": "Chương VII. Biến dạng của vật rắn. Áp suất chất lỏng",
+    "lessons": [
+      {
+        "id": "VL10-B33",
+        "title": "Bài 33. Biến dạng của vật rắn",
+        "order": 33,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-082",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.7.1",
+            "content": "Nêu được sự biến dạng kéo, biến dạng nén; mô tả đặc tính giới hạn đàn hồi, độ cứng của lò xo; phát biểu định luật Hooke."
+          },
+          {
+            "id": "VL10-YCCD-083",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.7.2",
+            "content": "Mô tả mối liên hệ giữa lực đàn hồi và độ biến dạng của lò xo: F_dh = k.|Δl|."
+          },
+          {
+            "id": "VL10-YCCD-084",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.7.3",
+            "content": "Vận dụng định luật Hooke tính độ dãn, độ nén của lò xo trong các bài toán cân bằng hoặc treo vật."
+          }
+        ]
+      },
+      {
+        "id": "VL10-B34",
+        "title": "Bài 34. Khối lượng riêng. Áp suất chất lỏng",
+        "order": 34,
+        "yccds": [
+          {
+            "id": "VL10-YCCD-085",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.7.4",
+            "content": "Nêu được khối lượng riêng là khối lượng của một đơn vị thể tích; công thức tính áp suất p = F/S và đơn vị Pa (N/m^2)."
+          },
+          {
+            "id": "VL10-YCCD-086",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.7.5",
+            "content": "Thành lập và vận dụng công thức độ chênh lệch áp suất chất lỏng Δp = ρ.g.Δh theo độ sâu."
+          },
+          {
+            "id": "VL10-YCCD-087",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL10.7.6",
+            "content": "Vận dụng nguyên lí Pascal và công thức áp suất chất lỏng giải thích hoạt động của máy nâng thuỷ lực, bình thông nhau."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL11-CH1",
+    "subject": "VatLi",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 1,
+    "code": "CH1-VL11",
+    "title": "Chương 1. Dao động",
+    "lessons": [
+      {
+        "id": "VL11-B1",
+        "title": "Bài 1. Dao động điều hoà",
+        "order": 1,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-001",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.1",
+            "content": "Nêu được định nghĩa dao động, dao động tuần hoàn, dao động tự do và dao động điều hoà."
+          },
+          {
+            "id": "VL11-YCCD-002",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.2",
+            "content": "Phân tích phương trình li độ x = A.cos(ωt + φ) và giải thích ý nghĩa các đại lượng: biên độ, chu kì, tần số, pha ban đầu."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B2",
+        "title": "Bài 2. Mô tả dao động điều hoà",
+        "order": 2,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-003",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.3",
+            "content": "Nhận dạng được đồ thị li độ – thời gian có dạng hình sin của dao động điều hoà."
+          },
+          {
+            "id": "VL11-YCCD-004",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.4",
+            "content": "Xác định biên độ, chu kì, tần số và độ lệch pha giữa hai dao động từ đồ thị hình sin."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B3",
+        "title": "Bài 3. Vận tốc, gia tốc trong dao động điều hoà",
+        "order": 3,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-005",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.5",
+            "content": "Nêu được phương trình vận tốc v = -ωA.sin(ωt + φ) và gia tốc a = -ω^2.A.cos(ωt + φ) = -ω^2.x."
+          },
+          {
+            "id": "VL11-YCCD-006",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.6",
+            "content": "Mô tả mối quan hệ về pha giữa li độ, vận tốc và gia tốc trong dao động điều hoà."
+          },
+          {
+            "id": "VL11-YCCD-007",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.7",
+            "content": "Vận dụng hệ thức độc lập với thời gian A^2 = x^2 + v^2/ω^2 để tính vận tốc, li độ ở thời điểm bất kì."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B4",
+        "title": "Bài 4. Bài tập về dao động điều hoà",
+        "order": 4,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-008",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.8",
+            "content": "Giải các bài toán tìm thời gian ngắn nhất, quãng đường đi được và xác định trạng thái dao động tại các thời điểm."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B5",
+        "title": "Bài 5. Động năng. Thế năng. Sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà",
+        "order": 5,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-009",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.9",
+            "content": "Nêu được công thức động năng W_d = 1/2 m v^2, thế năng W_t = 1/2 m ω^2 x^2 và cơ năng W = W_d + W_t."
+          },
+          {
+            "id": "VL11-YCCD-010",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.10",
+            "content": "Phân tích đồ thị năng lượng theo thời gian và theo li độ; giải thích sự chuyển hoá qua lại giữa động năng và thế năng."
+          },
+          {
+            "id": "VL11-YCCD-011",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.11",
+            "content": "Tính toán vị trí hoặc vận tốc khi động năng bằng n lần thế năng và giải bài toán bảo toàn cơ năng của con lắc lò xo."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B6",
+        "title": "Bài 6. Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng",
+        "order": 6,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-012",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.12",
+            "content": "Nêu định nghĩa và đặc điểm của dao động tắt dần, dao động duy trì, dao động cưỡng bức và điều kiện xảy ra hiện tượng cộng hưởng."
+          },
+          {
+            "id": "VL11-YCCD-013",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.13",
+            "content": "Thảo luận và đánh giá sự có lợi hoặc có hại của hiện tượng cộng hưởng trong đời sống và kĩ thuật (cầu sập, bộ giảm xóc xe)."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B7",
+        "title": "Bài 7. Bài tập về sự chuyển năng lượng trong dao động điều hoà",
+        "order": 7,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-014",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.1.14",
+            "content": "Vận dụng định luật bảo toàn cơ năng giải các bài toán tương tác năng lượng phức tạp trong dao động điều hoà."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL11-CH2",
+    "subject": "VatLi",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 2,
+    "code": "CH2-VL11",
+    "title": "Chương 2. Sóng",
+    "lessons": [
+      {
+        "id": "VL11-B8",
+        "title": "Bài 8. Mô tả sóng",
+        "order": 8,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-015",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.1",
+            "content": "Nêu được định nghĩa sóng cơ, bước sóng λ, biên độ, chu kì, tần số sóng và công thức liên hệ v = λ.f."
+          },
+          {
+            "id": "VL11-YCCD-016",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.2",
+            "content": "Từ đồ thị độ dịch chuyển – khoảng cách của sóng, xác định được bước sóng, biên độ và chiều truyền sóng."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B9",
+        "title": "Bài 9. Sóng ngang, sóng dọc, sự truyền năng lượng của sóng",
+        "order": 9,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-017",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.3",
+            "content": "Phân biệt được sóng ngang và sóng dọc dựa trên phương dao động của phần tử môi trường so với phương truyền sóng."
+          },
+          {
+            "id": "VL11-YCCD-018",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.4",
+            "content": "Nêu được ví dụ chứng minh quá trình truyền sóng là quá trình truyền pha dao động và truyền năng lượng chứ không truyền phần tử vật chất."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B10",
+        "title": "Bài 10. Thực hành: Đo tần số của sóng âm",
+        "order": 10,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-019",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.5",
+            "content": "Thảo luận phương án và thực hiện đo tần số sóng âm bằng dao động kí điện tử hoặc cảm biến âm thanh."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B11",
+        "title": "Bài 11. Sóng điện từ",
+        "order": 11,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-020",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.6",
+            "content": "Nêu được định nghĩa sóng điện từ, tốc độ truyền trong chân không c = 3.10^8 m/s và các dải bức xạ trong thang sóng điện từ."
+          },
+          {
+            "id": "VL11-YCCD-021",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.7",
+            "content": "So sánh bước sóng, tần số và ứng dụng của tia hồng ngoại, ánh sáng nhìn thấy, tia tử ngoại, tia X và tia gamma."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B12",
+        "title": "Bài 12. Giao thoa sóng",
+        "order": 12,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-022",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.8",
+            "content": "Nêu được định nghĩa hiện tượng giao thoa sóng, điều kiện hai nguồn sóng kết hợp và công thức khoảng vân i = λD/a."
+          },
+          {
+            "id": "VL11-YCCD-023",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.9",
+            "content": "Giải thích được sự hình thành các vân cực đại và vân cực tiểu trong giao thoa sóng nước và sóng ánh sáng."
+          },
+          {
+            "id": "VL11-YCCD-024",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.10",
+            "content": "Vận dụng công thức i = λD/a để xác định vị trí vân sáng, vân tối hoặc tính bước sóng ánh sáng trong thí nghiệm Young."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B13",
+        "title": "Bài 13. Sóng dừng",
+        "order": 13,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-025",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.11",
+            "content": "Nêu được định nghĩa sóng dừng, nút sóng, bụng sóng và điều kiện có sóng dừng trên dây có hai đầu cố định hoặc một đầu cố định một đầu tự do."
+          },
+          {
+            "id": "VL11-YCCD-026",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.12",
+            "content": "Xác định khoảng cách giữa hai nút liền kề, hai bụng liền kề (λ/2) và giữa một nút và một bụng liền kề (λ/4)."
+          },
+          {
+            "id": "VL11-YCCD-027",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.13",
+            "content": "Tính bước sóng, tốc độ truyền sóng hoặc số nút, số bụng sóng trên dây đàn đang dao động."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B14",
+        "title": "Bài 14. Thực hành: Đo tốc độ truyền âm",
+        "order": 14,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-028",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.14",
+            "content": "Thảo luận và tiến hành phương án đo tốc độ truyền âm trong không khí bằng hiện tượng sóng dừng trong ống cộng hưởng."
+          },
+          {
+            "id": "VL11-YCCD-029",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.2.15",
+            "content": "Xử lí số liệu thực nghiệm để tính tốc độ truyền âm kèm sai số đo."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL11-CH3",
+    "subject": "VatLi",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 3,
+    "code": "CH3-VL11",
+    "title": "Chương 3. Điện trường",
+    "lessons": [
+      {
+        "id": "VL11-B15",
+        "title": "Bài 15. Năng lượng và tương tác tĩnh điện",
+        "order": 15,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-029B",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.0",
+            "content": "Nêu các hiện tượng nhiễm điện (do cọ xát, tiếp xúc, hưởng ứng) và bản chất hạt mang điện."
+          },
+          {
+            "id": "VL11-YCCD-029C",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.0B",
+            "content": "Giải thích hiện tượng nhiễm điện của các vật trong tự nhiên và ứng dụng chống tĩnh điện."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B16",
+        "title": "Bài 16. Lực tương tác giữa các điện tích",
+        "order": 16,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-030",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.1",
+            "content": "Phát biểu định luật Coulomb, viết biểu thức F = k.|q1.q2|/r^2 và nêu đơn vị điện tích Coulomb (C)."
+          },
+          {
+            "id": "VL11-YCCD-031",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.2",
+            "content": "Biểu diễn vectơ lực tương tác Coulomb giữa hai điện tích điểm cùng dấu hoặc trái dấu."
+          },
+          {
+            "id": "VL11-YCCD-032",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.3",
+            "content": "Vận dụng nguyên lí chồng chất lực điện để xác định lực tổng hợp tác dụng lên một điện tích điểm đặt gần nhiều điện tích khác."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B17",
+        "title": "Bài 17. Khái niệm điện trường",
+        "order": 17,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-033",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.4",
+            "content": "Nêu định nghĩa điện trường, cường độ điện trường E = F/q, đơn vị V/m và đặc điểm đường sức điện."
+          },
+          {
+            "id": "VL11-YCCD-034",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.5",
+            "content": "Biểu diễn vectơ cường độ điện trường gây bởi một điện tích điểm và vẽ đường sức điện của các hệ điện tích đơn giản."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B18",
+        "title": "Bài 18. Điện trường đều",
+        "order": 18,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-035",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.6",
+            "content": "Nêu định nghĩa điện trường đều và công thức liên hệ E = U/d giữa hai bản phẳng song song tích điện trái dấu."
+          },
+          {
+            "id": "VL11-YCCD-036",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.7",
+            "content": "Mô tả tác dụng của điện trường đều lên chuyển động của hạt tích điện bay vào vuông góc với đường sức điện."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B19",
+        "title": "Bài 19. Thế năng điện",
+        "order": 19,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-037",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.8",
+            "content": "Nêu được khái niệm công của lực điện trường dịch chuyển điện tích q và công thức thế năng điện W_M = q.V_M."
+          },
+          {
+            "id": "VL11-YCCD-038",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.9",
+            "content": "Giải thích tính chất không phụ thuộc hình dạng đường đi của công lực điện (lực thế)."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B20",
+        "title": "Bài 20. Điện thế",
+        "order": 20,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-039",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.10",
+            "content": "Nêu được khái niệm điện thế V_M = A_M∞/q, hiệu điện thế U_MN = V_M - V_N = A_MN/q và đơn vị Volt (V)."
+          },
+          {
+            "id": "VL11-YCCD-040",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.11",
+            "content": "Vận dụng công thức A = q.U và U = E.d để tính công lực điện và hiệu điện thế trong điện trường đều."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B21",
+        "title": "Bài 21. Tụ điện",
+        "order": 21,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-041",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.12",
+            "content": "Nêu định nghĩa tụ điện, điện dung C = Q/U, đơn vị Fara (F) và công thức năng lượng điện trường W = 1/2 C.U^2."
+          },
+          {
+            "id": "VL11-YCCD-042",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.3.13",
+            "content": "Vận dụng công thức điện dung tương đương của bộ tụ ghép song song và ghép nối tiếp."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL11-CH4",
+    "subject": "VatLi",
+    "grade": 11,
+    "textbook": "KNTT",
+    "order": 4,
+    "code": "CH4-VL11",
+    "title": "Chương 4. Dòng điện không đổi",
+    "lessons": [
+      {
+        "id": "VL11-B22",
+        "title": "Bài 22. Cường độ dòng điện",
+        "order": 22,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-043",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.1",
+            "content": "Nêu định nghĩa dòng điện, cường độ dòng điện I = Δq/Δt, đơn vị Ampe (A) và biểu thức I = S.n.v.e."
+          },
+          {
+            "id": "VL11-YCCD-044",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.2",
+            "content": "Giải thích cơ chế dẫn điện trong kim loại dựa trên sự chuyển động có hướng của các electron tự do dưới tác dụng của điện trường."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B23",
+        "title": "Bài 23. Điện trở. Định luật Ohm",
+        "order": 23,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-045",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.3",
+            "content": "Phát biểu định luật Ohm cho đoạn mạch chỉ có điện trở: I = U/R; nêu đơn vị Ohm (Ω) và công thức điện trở dây dẫn R = ρ.l/S."
+          },
+          {
+            "id": "VL11-YCCD-046",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.4",
+            "content": "Mô tả đường đặc trưng V – A của dây kim loại và ảnh hưởng của nhiệt độ lên điện trở kim loại, nhiệt điện trở."
+          },
+          {
+            "id": "VL11-YCCD-047",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.5",
+            "content": "Tính điện trở tương đương, cường độ dòng điện và hiệu điện thế trong mạch điện nối tiếp và song song."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B24",
+        "title": "Bài 24. Nguồn điện",
+        "order": 24,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-048",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.6",
+            "content": "Nêu định nghĩa suất điện động E của nguồn điện và điện trở trong r của nguồn điện."
+          },
+          {
+            "id": "VL11-YCCD-049",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.7",
+            "content": "Phát biểu định luật Ohm cho toàn mạch kín: I = E/(R_N + r); phân biệt suất điện động và hiệu điện thế hai cực nguồn."
+          },
+          {
+            "id": "VL11-YCCD-050",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.8",
+            "content": "Vận dụng định luật Ohm cho toàn mạch tính cường độ dòng điện, hiệu điện thế mạch ngoài và hiện tượng đoản mạch."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B25",
+        "title": "Bài 25. Năng lượng điện và công suất điện",
+        "order": 25,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-051",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.9",
+            "content": "Nêu công thức tính công của nguồn điện A_ng = E.I.t và công suất nguồn P_ng = E.I; công suất toả nhiệt Joule - Lenz P = I^2.R."
+          },
+          {
+            "id": "VL11-YCCD-052",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.10",
+            "content": "Tính hiệu suất của nguồn điện H = U/E * 100% trong mạch kín có điện trở trong."
+          },
+          {
+            "id": "VL11-YCCD-053",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.11",
+            "content": "Giải bài toán kinh tế tính tiền điện tiêu thụ và tìm điều kiện để mạch ngoài đạt công suất cực đại (R_N = r)."
+          }
+        ]
+      },
+      {
+        "id": "VL11-B26",
+        "title": "Bài 26. Thực hành: Đo suất điện động và điện trở trong của pin điện hoá",
+        "order": 26,
+        "yccds": [
+          {
+            "id": "VL11-YCCD-054",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.12",
+            "content": "Thảo luận thiết kế phương án thí nghiệm đo suất điện động và điện trở trong của pin bằng vôn kế và ampe kế."
+          },
+          {
+            "id": "VL11-YCCD-055",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL11.4.13",
+            "content": "Vẽ đồ thị U theo I và xác định suất điện động E cùng điện trở trong r từ toạ độ giao điểm và độ dốc đồ thị."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL12-CH1",
+    "subject": "VatLi",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 1,
+    "code": "CH1-VL12",
+    "title": "Chương 1. Vật lí nhiệt",
+    "lessons": [
+      {
+        "id": "VL12-B1",
+        "title": "Bài 1. Cấu trúc của chất. Sự chuyển thể",
+        "order": 1,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-001",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.1",
+            "content": "Sử dụng mô hình động học phân tử, nêu được sơ lược cấu trúc của chất rắn, chất lỏng, chất khí."
+          },
+          {
+            "id": "VL12-YCCD-002",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.2",
+            "content": "Giải thích được sơ lược một số hiện tượng vật lí liên quan đến sự chuyển thể: sự nóng chảy, đông đặc, bay hơi, sôi, ngưng tụ."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B2",
+        "title": "Bài 2. Nội năng. Định luật I của nhiệt động lực học",
+        "order": 2,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-003",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.3",
+            "content": "Nêu định nghĩa nội năng và viết hệ thức định luật I của nhiệt động lực học ΔU = A + Q; quy ước dấu của A và Q."
+          },
+          {
+            "id": "VL12-YCCD-004",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.4",
+            "content": "Phân tích hai cách làm thay đổi nội năng của một vật: thực hiện công và truyền nhiệt."
+          },
+          {
+            "id": "VL12-YCCD-005",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.5",
+            "content": "Vận dụng định luật I nhiệt động lực học tính độ biến thiên nội năng, nhiệt lượng và công trong các quá trình đẳng áp, đẳng tích."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B3",
+        "title": "Bài 3. Nhiệt độ. Thang nhiệt độ - nhiệt kế",
+        "order": 3,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-006",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.6",
+            "content": "Nêu được nguyên tắc cân bằng nhiệt, định nghĩa độ không tuyệt đối và thang Kelvin, thang Celsius."
+          },
+          {
+            "id": "VL12-YCCD-007",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.7",
+            "content": "Chuyển đổi được nhiệt độ đo theo thang Celsius sang nhiệt độ đo theo thang Kelvin và ngược lại: T(K) = t(°C) + 273,15."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B4",
+        "title": "Bài 4. Nhiệt dung riêng",
+        "order": 4,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-008",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.8",
+            "content": "Nêu định nghĩa nhiệt dung riêng c, đơn vị J/(kg.K) và công thức nhiệt lượng trao đổi Q = m.c.Δt."
+          },
+          {
+            "id": "VL12-YCCD-009",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.9",
+            "content": "Giải thích ý nghĩa của nhiệt dung riêng trong thực tiễn (nhiệt dung riêng lớn của nước giúp điều hoà khí hậu vùng duyên hải)."
+          },
+          {
+            "id": "VL12-YCCD-010",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.10",
+            "content": "Vận dụng phương trình cân bằng nhiệt Q_toa = Q_thu để xác định nhiệt độ cân bằng hoặc nhiệt dung riêng của chất rắn."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B5",
+        "title": "Bài 5. Nhiệt nóng chảy riêng",
+        "order": 5,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-011",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.11",
+            "content": "Nêu định nghĩa nhiệt nóng chảy riêng λ, đơn vị J/kg và công thức tính nhiệt lượng nóng chảy Q = λ.m."
+          },
+          {
+            "id": "VL12-YCCD-012",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.12",
+            "content": "Giải thích tại sao trong suốt quá trình nóng chảy ở nhiệt độ xác định, nhiệt độ của chất không tăng dù tiếp tục cấp nhiệt lượng."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B6",
+        "title": "Bài 6. Nhiệt hoá hơi riêng",
+        "order": 6,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-013",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.13",
+            "content": "Nêu định nghĩa nhiệt hoá hơi riêng L, đơn vị J/kg và công thức nhiệt lượng hoá hơi Q = L.m."
+          },
+          {
+            "id": "VL12-YCCD-014",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.14",
+            "content": "Vận dụng các công thức nhiệt tính tổng nhiệt lượng cần cung cấp để chuyển một lượng nước đá từ nhiệt độ âm thành hơi nước sôi."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B7",
+        "title": "Bài 7. Thực hành: Đo nhiệt nóng chảy riêng của nước đá",
+        "order": 7,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-015",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.15",
+            "content": "Thảo luận phương án và thực hiện đo nhiệt nóng chảy riêng của nước đá bằng nhiệt lượng kế điện trở nhiệt."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B8",
+        "title": "Bài 8. Thực hành: Đo nhiệt hoá hơi riêng của nước",
+        "order": 8,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-016",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.1.16",
+            "content": "Thực hiện phương án đo nhiệt hoá hơi riêng của nước bằng cân điện tử và ấm đun có công suất xác định."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL12-CH2",
+    "subject": "VatLi",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 2,
+    "code": "CH2-VL12",
+    "title": "Chương 2. Khí lí tưởng",
+    "lessons": [
+      {
+        "id": "VL12-B9",
+        "title": "Bài 9. Mô hình động học phân tử chất khí",
+        "order": 9,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-017",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.1",
+            "content": "Nêu các giả thuyết của thuyết động học phân tử chất khí và khái niệm khí lí tưởng."
+          },
+          {
+            "id": "VL12-YCCD-018",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.2",
+            "content": "Phân tích chuyển động Brown để minh chứng các phân tử khí chuyển động hỗn loạn không ngừng."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B10",
+        "title": "Bài 10. Định luật Boyle",
+        "order": 10,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-019",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.3",
+            "content": "Phát biểu định luật Boyle cho quá trình đẳng nhiệt: p.V = hằng số."
+          },
+          {
+            "id": "VL12-YCCD-020",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.4",
+            "content": "Vẽ và giải thích đường đẳng nhiệt (nhánh hypebol trên hệ toạ độ p – V)."
+          },
+          {
+            "id": "VL12-YCCD-021",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.5",
+            "content": "Vận dụng định luật Boyle giải các bài toán nén pit-tông, bọt khí nổi từ đáy hồ lên mặt nước."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B11",
+        "title": "Bài 11. Định luật Charles",
+        "order": 11,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-022",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.6",
+            "content": "Phát biểu định luật Charles cho quá trình đẳng áp: V/T = hằng số."
+          },
+          {
+            "id": "VL12-YCCD-023",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.7",
+            "content": "Mô tả đường đẳng áp trên hệ toạ độ V – T và mối quan hệ giữa thể tích khí với nhiệt độ tuyệt đối."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B12",
+        "title": "Bài 12. Phương trình trạng thái của khí lí tưởng",
+        "order": 12,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-024",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.8",
+            "content": "Nêu phương trình trạng thái khí lí tưởng p1.V1/T1 = p2.V2/T2 và phương trình Clapeyron - Mendeleev: p.V = n.R.T."
+          },
+          {
+            "id": "VL12-YCCD-025",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.9",
+            "content": "Vận dụng phương trình trạng thái giải các bài toán biến đổi trạng thái của lượng khí xác định."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B13",
+        "title": "Bài 13. Áp suất khí theo mô hình động học phân tử. Quan hệ giữa động năng phân tử và nhiệt độ",
+        "order": 13,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-026",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.10",
+            "content": "Nêu hệ thức p = 1/3 n.m.(v^2)tb và hệ thức động năng tịnh tiến trung bình W_d = 3/2 k.T."
+          },
+          {
+            "id": "VL12-YCCD-027",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.11",
+            "content": "Giải thích nguồn gốc vi mô của áp suất chất khí là do sự va chạm của vô số phân tử khí lên thành bình chứa."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B14",
+        "title": "Bài 14. Thực hành: Khảo sát định luật Boyle",
+        "order": 14,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-028",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.12",
+            "content": "Tiến hành thí nghiệm khảo sát định luật Boyle bằng xi-lanh kín và áp kế số."
+          },
+          {
+            "id": "VL12-YCCD-029",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.2.13",
+            "content": "Vẽ đồ thị p theo 1/V để kiểm chứng mối quan hệ tỉ lệ thuận giữa áp suất và nghịch đảo thể tích."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL12-CH3",
+    "subject": "VatLi",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 3,
+    "code": "CH3-VL12",
+    "title": "Chương 3. Từ trường",
+    "lessons": [
+      {
+        "id": "VL12-B15",
+        "title": "Bài 15. Từ trường",
+        "order": 15,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-030",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.1",
+            "content": "Nêu định nghĩa từ trường, từ phổ, đường sức từ và các quy tắc xác định chiều đường sức từ của dòng điện thẳng, tròn, ống dây."
+          },
+          {
+            "id": "VL12-YCCD-031",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.2",
+            "content": "Mô tả hình dạng đường sức từ xung quanh nam châm thẳng, nam châm chữ U và ống dây mang dòng điện."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B16",
+        "title": "Bài 16. Lực từ tác dụng lên dây dẫn mang dòng điện. Cảm ứng từ",
+        "order": 16,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-032",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.3",
+            "content": "Nêu định nghĩa cảm ứng từ B, đơn vị Tesla (T) và biểu thức lực từ Ampere: F = B.I.L.sinθ."
+          },
+          {
+            "id": "VL12-YCCD-033",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.4",
+            "content": "Vận dụng quy tắc bàn tay trái xác định phương, chiều của lực từ tác dụng lên đoạn dây dẫn mang dòng điện."
+          },
+          {
+            "id": "VL12-YCCD-034",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.5",
+            "content": "Giải các bài toán cân bằng dây dẫn treo trong từ trường hoặc lực từ tác dụng giữa hai dây dẫn song song mang dòng điện."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B17",
+        "title": "Bài 17. Từ thông. Cảm ứng điện từ",
+        "order": 17,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-035",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.6",
+            "content": "Nêu định nghĩa từ thông Φ = B.S.cosα, đơn vị Weber (Wb) và phát biểu định luật Faraday về suất điện động cảm ứng: e_c = -ΔΦ/Δt."
+          },
+          {
+            "id": "VL12-YCCD-036",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.7",
+            "content": "Phát biểu định luật Lenz và xác định chiều của dòng điện cảm ứng xuất hiện trong mạch kín."
+          },
+          {
+            "id": "VL12-YCCD-037",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.8",
+            "content": "Tính suất điện động cảm ứng khi thanh dẫn chuyển động trong từ trường đều hoặc khi từ trường biến thiên theo thời gian."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B18",
+        "title": "Bài 18. Hiện tượng tự cảm",
+        "order": 18,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-038",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.9",
+            "content": "Nêu định nghĩa hiện tượng tự cảm, độ tự cảm L của ống dây và suất điện động tự cảm: e_tc = -L.Δi/Δt."
+          },
+          {
+            "id": "VL12-YCCD-039",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.10",
+            "content": "Giải thích hiện tượng đóng mạch và ngắt mạch có cuộn cảm (đèn sáng từ từ hoặc loé sáng khi ngắt khoá K)."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B19",
+        "title": "Bài 19. Sóng điện từ",
+        "order": 19,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-040",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.11",
+            "content": "Nêu các tính chất của sóng điện từ: là sóng ngang, lan truyền được trong chân không, các vectơ E và B vuông góc với nhau và vuông góc với v."
+          },
+          {
+            "id": "VL12-YCCD-041",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.12",
+            "content": "Mô tả nguyên tắc thu phát thông tin liên lạc bằng sóng vô tuyến: biến điệu, khuếch đại, tách sóng."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B20",
+        "title": "Bài 20. Thực hành: Đo cảm ứng từ bằng cân dòng điện",
+        "order": 20,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-042",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.3.13",
+            "content": "Tiến hành phương án thí nghiệm đo cảm ứng từ B giữa hai cực nam châm bằng cân dòng điện."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VL12-CH4",
+    "subject": "VatLi",
+    "grade": 12,
+    "textbook": "KNTT",
+    "order": 4,
+    "code": "CH4-VL12",
+    "title": "Chương 4. Vật lí hạt nhân",
+    "lessons": [
+      {
+        "id": "VL12-B21",
+        "title": "Bài 21. Cấu tạo và tính chất của hạt nhân",
+        "order": 21,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-043",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.1",
+            "content": "Nêu được kí hiệu hạt nhân ^A_Z X, số proton Z, số neutron N = A - Z, đơn vị khối lượng nguyên tử amu và khái niệm đồng vị."
+          },
+          {
+            "id": "VL12-YCCD-044",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.2",
+            "content": "Tính số proton, số neutron và số electron trong một nguyên tử hoặc một khối lượng chất cho trước."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B22",
+        "title": "Bài 22. Năng lượng liên kết hạt nhân",
+        "order": 22,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-045",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.3",
+            "content": "Nêu hệ thức Einstein E = m.c^2, công thức tính độ hụt khối Δm và năng lượng liên kết W_lk = Δm.c^2."
+          },
+          {
+            "id": "VL12-YCCD-046",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.4",
+            "content": "Nêu mối liên hệ giữa năng lượng liên kết riêng (W_lk/A) và độ bền vững của hạt nhân; so sánh độ bền vững của các hạt nhân trung bình."
+          },
+          {
+            "id": "VL12-YCCD-047",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.5",
+            "content": "Tính năng lượng toả ra hoặc thu vào của một phản ứng hạt nhân dựa trên độ hụt khối hoặc năng lượng liên kết."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B23",
+        "title": "Bài 23. Phản ứng phân hạch và phản ứng nhiệt hạch",
+        "order": 23,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-048",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.6",
+            "content": "Nêu định nghĩa và đặc điểm của phản ứng phân hạch hạt nhân nặng và phản ứng nhiệt hạch hạt nhân nhẹ."
+          },
+          {
+            "id": "VL12-YCCD-049",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.7",
+            "content": "So sánh năng lượng toả ra và điều kiện xảy ra của phân hạch (dây chuyền điều khiển được trong lò phản ứng) và nhiệt hạch."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B24",
+        "title": "Bài 24. Hiện tượng phóng xạ",
+        "order": 24,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-050",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.8",
+            "content": "Nêu bản chất tự phát của phóng xạ, chu kì bán rã T, hằng số phóng xạ λ = ln2/T và định luật phóng xạ N(t) = N0.2^(-t/T)."
+          },
+          {
+            "id": "VL12-YCCD-051",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.9",
+            "content": "Mô tả tính chất của các tia phóng xạ α, β-, β+ và γ (bản chất, khả năng đâm xuyên, khả năng ion hoá)."
+          },
+          {
+            "id": "VL12-YCCD-052",
+            "level": "VD",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.10",
+            "content": "Vận dụng định luật phóng xạ xác định tuổi cổ vật bằng đồng vị Carbon-14 hoặc độ phóng xạ của nguồn y tế."
+          }
+        ]
+      },
+      {
+        "id": "VL12-B25",
+        "title": "Bài 25. Phóng xạ nhân tạo và ứng dụng",
+        "order": 25,
+        "yccds": [
+          {
+            "id": "VL12-YCCD-053",
+            "level": "NB",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.11",
+            "content": "Nhận biết các biển cảnh báo phóng xạ và nêu quy tắc an toàn bảo vệ cơ thể khỏi bức xạ ion hoá."
+          },
+          {
+            "id": "VL12-YCCD-054",
+            "level": "TH",
+            "sourceDocument": "Thông tư 32/2018/TT-BGDĐT",
+            "officialCode": "VL12.4.12",
+            "content": "Nêu các ứng dụng chính của đồng vị phóng xạ trong y tế (xạ trị, máy quét PET), nông nghiệp (chiếu xạ bảo quản) và công nghiệp."
+          }
+        ]
+      }
+    ]
+  }
+]

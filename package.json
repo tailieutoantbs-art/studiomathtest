@@ -1,0 +1,32 @@
+{
+  "name": "studio-math-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "STUDIO \"MATH TEST\" - Phần mềm tạo Ma Trận và Bản Đặc Tả Đề Kiểm Tra Định Kì Toán THPT (GDPT 2018 - Cấu trúc 2025) - Thầy Hùng TBS",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "docx": "^8.5.0",
+    "lucide-react": "^1.16.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.1"
+  }
+}
+
